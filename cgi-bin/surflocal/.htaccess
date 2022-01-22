@@ -1,0 +1,49 @@
+## password begin ##
+<Files "NewBeginAdDB.cgi">
+
+
+AuthUserFile /usr/home/starting2014/public_html/surflocalmedia.com/cgi-bin/surflocal/.passwd
+AuthType     Basic
+AuthName     "Protected"
+Require valid-user
+</Files>
+
+
+<Files "MultipleDeleteT.cgi">
+
+AuthUserFile /usr/home/starting2014/public_html/surflocalmedia.com/cgi-bin/surflocal/.passwd
+AuthType     Basic
+AuthName     "Protected"
+Require valid-user
+</Files>
+
+<Files "MultipleUploadT.cgi">
+
+AuthUserFile /usr/home/starting2014/public_html/surflocalmedia.com/cgi-bin/surflocal/.passwd
+AuthType     Basic
+AuthName     "Protected"
+Require valid-user
+</Files>
+
+<Files "MultipleDelete.cgi">
+
+AuthUserFile /usr/home/starting2014/public_html/surflocalmedia.com/cgi-bin/surflocal/.passwd
+AuthType     Basic
+AuthName     "Protected"
+Require valid-user
+</Files>
+
+<Files "MultipleUpload.cgi">
+
+AuthUserFile /usr/home/starting2014/public_html/surflocalmedia.com/cgi-bin/surflocal/.passwd
+AuthType     Basic
+AuthName     "Protected"
+Require valid-user
+</Files>
+
+
+## password end ##
+
+ErrorDocument 401  /marketing/
+
+

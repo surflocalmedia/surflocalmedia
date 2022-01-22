@@ -1,0 +1,94 @@
+<center><table BORDER COLS=12 WIDTH="735" BGCOLOR="#FFFFFF" BACKGROUND="https://www.surflocal.net/images/white_table.jpg">
+
+<tr>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#404040"></td>
+<td BGCOLOR="#404040">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#4C4E5D"></td>
+<td BGCOLOR="#4C4E5D">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#62453D"></td>
+<td BGCOLOR="#62453D">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#330000"></td>
+<td BGCOLOR="#330000">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#834840"></td>
+<td BGCOLOR="#834840">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#684E51"></td>
+<td BGCOLOR="#684E51">&nbsp;</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#0E7A96"></td>
+<td BGCOLOR="#0E7A96">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#145B6F"></td>
+<td BGCOLOR="#145B6F">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#004593"></td>
+<td BGCOLOR="#004593">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#135D8A"></td>
+<td BGCOLOR="#135D8A">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#000080"></td>
+<td BGCOLOR="#000080">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#06085A"></td>
+<td BGCOLOR="#06085A">&nbsp;</td>
+</tr>
+
+<tr>
+
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#9D324C"></td>
+<td BGCOLOR="#9D324C">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#742638"></td>
+<td BGCOLOR="#742638">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#9A0000"></td>
+<td BGCOLOR="#9A0000">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#6D0B0B"></td>
+<td BGCOLOR="#6D0B0B">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#800080"></td>
+<td BGCOLOR="#800080">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#400040"></td>
+<td BGCOLOR="#400040">&nbsp;</td>
+
+</tr>
+
+<tr>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#607458"></td>
+<td BGCOLOR="#607458">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#006666"></td>
+<td BGCOLOR="#006666">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#004000"></td>
+<td BGCOLOR="#004000">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#0E3F39"></td>
+<td BGCOLOR="#0E3F39">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#000000"></td>
+<td BGCOLOR="#000000">&nbsp;</td>
+
+<td WIDTH="1%"><input type="radio" name="TextAdFontColor" value="#ffffff"></td>
+<td BGCOLOR="#ffffff">&nbsp;</td>
+
+
+</tr>
+</table></center>

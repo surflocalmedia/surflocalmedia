@@ -1,0 +1,20 @@
+CouponShopping|Place source code for shopping link here
+CouponVideo| SourceCode for Movie Player
+CouponImage1|<img SRC="https://www.surflocal.net/images/coupon1_image.jpg">
+CouponImage2|<img SRC="https://www.surflocal.net/images/coupon_image2.jpg">
+CouponImage3|<img SRC="https://www.surflocal.net/images/coupon_example_a.jpg">
+CouponImage4|<img src="https://www.surflocal.net/images/coupon-banner.jpg">
+CouponOfferText|Your Offer Will Go Here.  Be Creative and Offer Something Special for your New Internet Customers.
+CouponBusinessLink|https://www.surflocal.net/
+CouponBusinessLinkText|Our Webpage
+CouponHeadline|Surflocal.net
+CouponEmailAddress|agent@surflocal.net 
+CouponEmailText|E-mail Us
+CouponAddress|Type your ADDRESS here
+CouponTown|2216 Crockett Amarillo Texas 79106
+CouponPhoneNumber|Phone: (806)471-2000   
+CouponGoodThru|Always Good
+Title|Your Category Heading 8 to 16 words 
+DescriptionTag|<meta name="robots" content="noindex"> <----- erace this and add a Specific Category Heading 8 to 16 words
+Keywords|List 4 benefits of this industry, separated by commas
+Category|Category Specific Phrase, 8 to 16 words

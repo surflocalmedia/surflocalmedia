@@ -1,0 +1,2 @@
+id|login|password|email|home|limit|protect|rights|disabled
+2|office|ybqU00lZ73ajc|marketing@surflocal.net|office|500||u,m,r|

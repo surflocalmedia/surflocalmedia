@@ -1,0 +1,42 @@
+body {
+scrollbar-highlight-color: #fde7a9; 
+scrollbar-3dlight-color: #fde7a9; 
+scrollbar-arrow-color: #fde7a9; 
+scrollbar-track-color: #0E1C7B; 
+scrollbar-darkshadow-color: #fde7a9; 
+scrollbar-base-color: #0E1C7B; 
+border-light-color: #fde7a9;
+color: #ffffff;
+bgcolor: #000000;
+
+}
+
+
+a {
+	color: #F6F8B6;
+	text-decoration: underline;
+}
+
+a:hover {
+   text-transform:none; color:#ffffff;
+}
+
+
+a:hover{text-decoration: overline underline;}
+a:hover{text-decoration: overline underline;}
+
+
+a:visited {
+   text-transform:none; color:#ffffff;
+}
+
+
+body {
+        font-family: Bookman Old Style
+	font-size: 8px;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	color: #ffffff; background-color: #000000;
+        
+}

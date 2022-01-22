@@ -1,0 +1,124 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Edit Pad">
+   <meta name="Author" content="Surflocal Easy Web Site Creator">
+   <meta http-equiv="Page-Exit" content="RevealTrans (Duration=2, Transition=23)">
+   <meta name="Robots" content="forward,all">
+   <meta name="revisit after" content="every 7 days">
+   <meta name="distribution" content="global">
+   <meta name="Description" content="%%BizName%% %%CityState%% %%BizName%% %%CityState%%  browse %%BizName%% services or buy online with us in %%City%%">
+      <meta name="Keywords" content="%%BizName%%, %%CityState%%,promote local business, %%CityState%% business">
+   <title>%%BizName%% %%CityState%% %%BizName%% %%CityState%%  browse %%BizName%% services or buy online with us in %%City%%</title>
+</head>
+<body text="%%FontColor%%" bgcolor="#ffffff" link="%%FontColor%%" vlink="%%FontColor%%" alink="#600000" body style=" border-right: thick groove rgb(255,255,255); border-left: thick groove rgb(255,255,255); border-top: thick groove rgb(255,255,255); border-bottom: thick groove rgb(255,255,255)">
+<style>BODY {
+SCROLLBAR-HIGHLIGHT-COLOR: #ffd201; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #ffd098; SCROLLBAR-TRACK-COLOR: %%FontColor%%; ; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: %%FontColor%%; BORDER-LIGHT-COLOR: #ffd098; BORDER-DARK-COLOR: #ffd098}
+
+</style>
+<!-- BodyStuff -->
+
+<!-- Font stuff -->
+<style>A {
+	TEXT-DECORATION: underline
+}
+A:hover {
+	TEXT-TRANSFORM: uppercase; COLOR: #ffffff; BACKGROUND-COLOR: %%FontColor%%
+}
+A:hover {
+	TEXT-DECORATION: underline overline
+}
+A:hover {
+	TEXT-DECORATION: underline overline
+}
+</style>
+<center><table BORDER=3 COLS=1 WIDTH="80%" bgcolor="#ffffff" bordercolor=%%FontColor%%>
+
+<td>
+<center>
+<!-- Font stuff -->
+<font size=-1>|
+<!-- ProductLinks -->
+|
+<!--UserLinks-->
+<Font size=-1>
+<a href="http://www.surflocal.net/%%CityState%%/%%BizName%%/index.html">%%BizName%% Home</a>|
+
+
+<center>
+<font size=+2>
+<!-- Font stuff -->
+<!--ProductTitle-->
+
+
+<center><table BORDER=0 COLS=2 WIDTH="95%">
+<tr>
+<td WIDTH="60%">
+
+<!-- Font stuff -->
+<!--ProductDescription-->
+
+</font></font>
+</td>
+
+</tr>
+</table></center>
+
+<!-- Font stuff -->
+For more information, please fill out our online form. <br>We will contact you shortly with a reply.  We appreciate your inquiry!</font></font></b>
+<FORM METHOD=POST ACTION="mailto:%%email%%" ENCTYPE="text/plain">
+
+
+<center><table BORDER=0 COLS=2 WIDTH="50%" >
+<tr>
+<!-- Font stuff -->
+<td VALIGN=TOP><font size=+1>Name</font></font>
+<br><input 
+    type="text" size="20" name="name">
+<br><font color="%%FontColor%%"><font size=+1>Address</font></font>
+<br><input 
+    type="text" size="20" name="address"></td>
+
+<td VALIGN=TOP><font size=+1>Phone</font></font>
+<br><input type="text"
+    size="20" name="phone">
+<br><font size=+1>E-mail</font></font>
+<br><input 
+    type="text" size="20" name="email"></td>
+</tr>
+</table></center>
+<!-- Font stuff -->
+<center><font size=-1>Please ask us questions
+or&nbsp;<br>
+give your comments in the space provided below.</font></font>
+<br><font color="#80000"><font size=-1>We hope you call soon!</font></font></b>
+<br><textarea NAME="body" ROWS="5" COLS="50"></textarea>
+<p><input type="submit"
+    value="Send to %%BizName%%"><input type="reset">
+<br></form></center>
+<!-- Font stuff -->
+<font size=-2>|
+<!-- ProductLinks -->
+|
+<!--UserLinks-->
+<Font size=-2><a href="http://www.surflocal.net/calculators">Business Tools Library</a>|
+<a href="http://www.surflocal.net/%%CityState%%/%%BizName%%/index.html">%%BizName%% Home</a>|
+</font></font></center>
+<br>
+<!-- Font stuff -->
+<center><Font size=-2>This Presentation copyright & maintained by %%BizName%% 2004-2005</Font></Font></center>
+</td>
+</tr>
+</table></center>
+
+</tr>
+</table></center>
+
+
+</td>
+</tr>
+</table></center>
+
+</body>
+</html>

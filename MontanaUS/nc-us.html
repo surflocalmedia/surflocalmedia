@@ -1,0 +1,433 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN">
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta http-equiv="PICS-Label" content="(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://surflocal.net/" r (SS~~000 1))">
+   <meta name="Author" content="Trinity   www.surflocal.net  trinity@surflocal.net">
+   <meta name="GENERATOR" content="Edit Pad">
+   <META NAME="GOOGLEBOT" CONTENT="index, follow">
+   <meta name="Robots" content="index,follow">
+   <meta name="revisit after" content="every 3 days">
+   <meta name="distribution" content="global">
+   <meta name="Description" content="%%City%% State Search Placement System- By placing an ad on the %%City%% search placement system the major search engines will properly categorize your business on the internet, This will continuously market each ad producing hundreds of active links on the major search engines ensuring our clients gain direct access from the major search engines to each website or coupon ad ">
+<meta name="keywords" content=" %%City%%, Cities, city, Local, Website, Marketing, %%City%%, Local, Business, Network, %%City%%, Local, Shopping, Network, %%City%%, Local, Coupon, Download, %%City%%, Local, Business, Directory, %%City%%, Online, Shopping, Book, Compare, %%City%%, Hotels, %%City%%, Local, Discount, Coupons, %%City%%, Local, Coupon, Directories, %%City%%, Local, Coupon, Directory, %%City%%, Local, Website, Discount, Coupon,">
+     <title>%%City%% State Search Placement System- This Automated Ad Creation System provides State Search Placement. Our National Business and Shopping Network will continuously market each ad producing hundreds of active links on the major search engines ensuring our clients gain direct access from the major search engines .</title>
+<link REL="SHORTCUT ICON" HREF="http://www.surflocal.net/tp.ico">
+<link href="/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+
+
+<center><table BORDER=0 COLS=3 WIDTH="100%" HEIGHT="239" style="background:url('/images/front/top-banner.jpg') no-repeat;"  style="border-collapse: collapse">
+<tr>
+<td WIDTH="270" VALIGN="BOTTOM" >
+<FONT COLOR=FFFFFF><B>&nbsp;&nbsp;&nbsp;&nbsp;%%City%% %%State%%
+<br>&nbsp;&nbsp;</FONT></td>
+
+<td></td>
+
+<td WIDTH="225"><div valign=bottom align="center">
+
+<br>
+<FONT COLOR=FFFFFF><script type="text/javascript">
+
+/***********************************************
+* Translucent Slideshow script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var trans_width='200px' //slideshow width
+var trans_height='194px' //slideshow height
+var pause=3000 //SET PAUSE BETWEEN SLIDE (3000=3 seconds)
+var degree=10 //animation speed. Greater is faster.
+
+var slideshowcontent=new Array()
+//Define slideshow contents: [image URL, OPTIONAL LINK, OPTIONAL LINK TARGET]
+slideshowcontent[0]=["http://www.surflocal.net/images/front/1.jpg", "", ""]
+slideshowcontent[1]=["http://www.surflocal.net/images/front/2.jpg", "", ""]
+slideshowcontent[2]=["http://www.surflocal.net/images/front/3.jpg", "", ""]
+slideshowcontent[3]=["http://www.surflocal.net/images/front/4.jpg", "", ""]
+slideshowcontent[4]=["http://www.surflocal.net/images/front/5.jpg", "", ""]
+slideshowcontent[5]=["http://www.surflocal.net/images/front/6.jpg", "", ""]
+slideshowcontent[6]=["http://www.surflocal.net/images/front/7.jpg", "", ""]
+slideshowcontent[7]=["http://www.surflocal.net/images/front/8.jpg", "", ""]
+
+
+////NO need to edit beyond here/////////////
+
+var bgcolor='black'
+
+var imageholder=new Array()
+for (i=0;i<slideshowcontent.length;i++){
+imageholder[i]=new Image()
+imageholder[i].src=slideshowcontent[i][0]
+}
+
+var ie4=document.all
+var dom=document.getElementById&&navigator.userAgent.indexOf("Opera")==-1
+
+if (ie4||dom)
+document.write('<div style="position:relative;width:'+trans_width+';height:'+trans_height+';overflow:hidden"><div id="canvas0" style="position:absolute;background-color:'+bgcolor+';width:'+trans_width+';height:'+trans_height+';left:-'+trans_width+';filter:alpha(opacity=20);-moz-opacity:0.2;"></div><div id="canvas1" style="position:absolute;background-color:'+bgcolor+';width:'+trans_width+';height:'+trans_height+';left:-'+trans_width+';filter:alpha(opacity=20);-moz-opacity:0.2;"></div></div>')
+else if (document.layers){
+document.write('<ilayer id=tickernsmain visibility=hide width='+trans_width+' height='+trans_height+' bgColor='+bgcolor+'><layer id=tickernssub width='+trans_width+' height='+trans_height+' left=0 top=0>'+'<img src="'+slideshowcontent[0][0]+'"></layer></ilayer>')
+}
+
+var curpos=trans_width*(-1)
+var curcanvas="canvas0"
+var curindex=0
+var nextindex=1
+
+function getslidehtml(theslide){
+var slidehtml=""
+if (theslide[1]!="")
+slidehtml='<a href="'+theslide[1]+'" target="'+theslide[2]+'">'
+slidehtml+='<img src="'+theslide[0]+'" border="0">'
+if (theslide[1]!="")
+slidehtml+='</a>'
+return slidehtml
+}
+
+function moveslide(){
+if (curpos<0){
+curpos=Math.min(curpos+degree,0)
+tempobj.style.left=curpos+"px"
+}
+else{
+clearInterval(dropslide)
+if (crossobj.filters)
+crossobj.filters.alpha.opacity=100
+else if (crossobj.style.MozOpacity)
+crossobj.style.MozOpacity=1
+nextcanvas=(curcanvas=="canvas0")? "canvas0" : "canvas1"
+tempobj=ie4? eval("document.all."+nextcanvas) : document.getElementById(nextcanvas)
+tempobj.innerHTML=getslidehtml(slideshowcontent[curindex])
+nextindex=(nextindex<slideshowcontent.length-1)? nextindex+1 : 0
+setTimeout("rotateslide()",pause)
+}
+}
+
+function rotateslide(){
+if (ie4||dom){
+resetit(curcanvas)
+crossobj=tempobj=ie4? eval("document.all."+curcanvas) : document.getElementById(curcanvas)
+crossobj.style.zIndex++
+if (crossobj.filters)
+document.all.canvas0.filters.alpha.opacity=document.all.canvas1.filters.alpha.opacity=20
+else if (crossobj.style.MozOpacity)
+document.getElementById("canvas0").style.MozOpacity=document.getElementById("canvas1").style.MozOpacity=0.2
+var temp='setInterval("moveslide()",50)'
+dropslide=eval(temp)
+curcanvas=(curcanvas=="canvas0")? "canvas1" : "canvas0"
+}
+else if (document.layers){
+crossobj.document.write(getslidehtml(slideshowcontent[curindex]))
+crossobj.document.close()
+}
+curindex=(curindex<slideshowcontent.length-1)? curindex+1 : 0
+}
+
+function jumptoslide(which){
+curindex=which
+rotateslide()
+}
+
+function resetit(what){
+curpos=parseInt(trans_width)*(-1)
+var crossobj=ie4? eval("document.all."+what) : document.getElementById(what)
+crossobj.style.left=curpos+"px"
+}
+
+function startit(){
+crossobj=ie4? eval("document.all."+curcanvas) : dom? document.getElementById(curcanvas) : document.tickernsmain.document.tickernssub
+if (ie4||dom){
+crossobj.innerHTML=getslidehtml(slideshowcontent[curindex])
+rotateslide()
+}
+else{
+document.tickernsmain.visibility='show'
+curindex++
+setInterval("rotateslide()",pause)
+}
+}
+
+if (window.addEventListener)
+window.addEventListener("load", startit, false)
+else if (window.attachEvent)
+window.attachEvent("onload", startit)
+else if (ie4||dom||document.layers)
+window.onload=startit
+
+</script>
+</div></td>
+
+</tr>
+
+</table>
+<marquee  behavior="scroll" direction="left" scrollamount="2" scrolldelay="20" bgcolor="#000000" truespeed="true" onmouseover="this.stop()" onmouseout="this.start()">
+<b><font color="#FFFFFF"><font size=-1>
+News Wire <font color="#FFFFFF"> <font size=-1>--- <a href="http://www.surflocal.net/CanyonTX/Carpet%20World%20Discount%20Store/"><font color="#FAEBC4">North Texas Carpet World Discount Store </a> --- </font><font color="#FAEBC4"><a href="http://www.surflocal.net/Fort-CollinsCO/tileinstaller/" target="_top"><font color="#FAEBC4">NOCO Floor
+&amp; Tile Installer </a></font><font color="#FFFFFF">--- </font><font color="#FAEBC4"><a href="http://www.surflocal.net/cigars/" target="_top"><font color="#FAEBC4">Cigar
+Specials </a></font><font color="#FFFFFF">--- </font><font color="#FAEBC4"><a href="http://www.surflocal.net/Fort-CollinsCO/familytherapy/" target="_top"><font color="#FAEBC4">NOCO
+Marriage &amp; Family Therapist </a></font><font color="#FFFFFF"><font color="#FFFFFF"> --- </font><font color="#FAEBC4"><a href="http://www.surflocal.net/Fort-CollinsCO/carpetcleaner/" target="_top"><font color="#FAEBC4">Carpet
+Cleaning Specials</a></font><font color="#FFFFFF"> --- </font><font color="#FAEBC4"><a href="http://www.surflocal.net/Fort-CollinsCO/weddingphotography/" target="_top"><font color="#FAEBC4">NOCO
+Wedding Photographer</a></font><font color="#FFFFFF">--- </font><font color="#FAEBC4"><a href="http://www.surflocal.net/WindsorCO/autorepairshop/" target="_top"><font color="#FAEBC4">NOCO
+Auto Repair Shop</a></font><font color="#FFFFFF"> --- </font><font color="#FAEBC4"><a href="http://www.surflocal.net/arnp/" target="_top"><font color="#FAEBC4">American
+Renaissance National Pageant</a></font><font color="#FFFFFF">---</font><font color="#FAEBC4"><a href="http://www.surflocal.net/Fort-CollinsCO/laptopskins/" target="_top"><font color="#FAEBC4">Vinyl
+Decals &amp; Laptop Skins</a></font><font color="#FFFFFF"> ---</font></font></b></MARQUEE>
+<table BORDER=0 COLS=1 WIDTH="100%" HEIGHT=33 BGCOLOR="#000000" style="background:url('/images/front/botton-nav2.gif')"  style="border-collapse: collapse">
+<tr>
+<TD> <center>
+<CENTER><FONT SIZE=-1><B>
+ <center><a href="http://www.surflocal.net/" title="Surflocal Home"><font color=ffffff>Surflocal</a>&nbsp; &nbsp;
+<a href="http://www.surflocal.net/hotels/continents.html" title="Compare Hotels"><font size=-1><font color=ffffff>Compare Hotels</a>&nbsp;&nbsp;
+<a href="http://www.surflocal.net/PressUS/" title="Press Release"><font color=ffffff>Press Release</a>&nbsp; &nbsp;
+<a href="http://www.surflocal.net/surfthenet/" title="Search"><font color=ffffff>Search</a>&nbsp; &nbsp;
+<a href="http://www.surflocal.net/postcards/" title="Postcards"><font color=ffffff>Postcards</a>&nbsp; &nbsp;
+<a href="http://www.surflocal.net/arcade/" title="Arcade"><font color=ffffff>Arcade</a>&nbsp; &nbsp;
+<a href="http://www.surflocal.net/flowers/" title="Flowers"><font color=ffffff>Flowers</a>&nbsp; &nbsp;
+<a href="http://www.surflocal.net/postoffice/" title="Post Office"><font color=ffffff>Post Office</a>&nbsp; &nbsp;
+<a href="http://www.surflocal.net/netshack/" title="NetShack"><font color=ffffff>NetShack</a>&nbsp; &nbsp;
+</center>
+</TD>
+
+</tr>
+</table></center>
+
+<center><table BORDER=0 COLS=2 WIDTH="100%">
+<tr>
+<td valign="top" width=177 BACKGROUND="/images/front/leftbg.gif">
+
+<div align=right>
+
+<form method="get" action="http://www.surflocal.net/cgi-bin/search/search.pl"><label for="fdse_TermsEx">
+<font color=ffffff><font size=-1><B>Surflocal Search<br></label><input name="Terms" id="fdse_TermsEx" /><input type="submit" value="GO" /></form>
+
+
+
+<P>
+<img src="/images/front/l1.gif" alt="City Image">
+<p><a href="map-nav.html"><font size=-1><font color=ffffff>Map Navigation</a>&nbsp;&nbsp;
+<a href="http://www.surflocal.net/terms.html"><font size=-1><font color=ffffff>Copyright/Privacy</a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/office/"><font size=-1><font color=ffffff>Referral Program</a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/Awards/"><font size=-1><font color=ffffff>About Us</a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/contact.html"><font size=-1><font color=ffffff>Contact Us</a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/sitemap.html"><font size=-1><font color=ffffff>Site Map</a>&nbsp;&nbsp;
+
+ 
+<p>
+
+<img src="/images/front/1a.gif" alt="City Image">
+
+<p>
+<font size=-1>
+
+<a href="http://www.surflocal.net/AmarilloTX/"><font color=ffffff>Amarillo </a>&nbsp;&nbsp;
+<BR>
+<a href="http://www.surflocal.net/BronxNY/"><font color=ffffff>Bronx </a>&nbsp;&nbsp;
+<BR>
+<a href="http://www.surflocal.net/CheyenneWY/"><font color=ffffff>Cheyenne </a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/DenverCO/"><font color=ffffff>Denver </a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/Estes-ParkCO/"><font color=ffffff>Estes Park </a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/Fort-CollinsCO/"><font color=ffffff>Fort Collins </a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/GreeleyCO/"><font color=ffffff>Greeley </a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/HonoluluHI/"><font color=ffffff>Honolulu </a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/LongmontCO/"><font color=ffffff>Longmont </a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/LovelandCO/"><font color=ffffff>Loveland </a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/PhoenixAZ/"><font color=ffffff>Phoenix </a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/SeattleWA/"><font color=ffffff>Seattle </a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/WindsorCO/"><font color=ffffff>Windsor </a>&nbsp;&nbsp;
+<br>
+<a href="http://www.surflocal.net/Winston-SalemNC/"><font color=ffffff>Winston Salem </a>&nbsp;&nbsp;
+
+<BR><BR>
+<div align=right>
+<p><p><form method="post" name="loginForm" action="http://www.surflocal.net/cgi-bin/FileManager/Manager.pl">
+
+
+<BR><font size=-2><b>Client Username:
+<BR><input type=text name=login size=20 value="">
+
+<BR><font size=-2><b>Client Password:
+<BR><input type=password name=password size=20 value="">
+
+<br><input type=submit name=log_in value='  Login  '>   &nbsp;<input type="reset"  value=" Reset  ">
+
+<P>
+<img SRC="http://www.surflocal.net/images/perlpowered.png" ALT="Surflocal is Perl Powered" NOSAVE height=48 width=134>
+
+<BR>
+<a href="http://english-179370953598.spampoison.com" target="_blank"><img src="http://www.surflocal.net/images/sticker.gif" ALT="Spam Poison" border="0" width="80" height="15"/></a>
+
+<br><br>
+<img SRC="http://www.surflocal.net/Awards/submit/trinityDoD.jpg" ALT="Apex Director of Disputes" NOSAVE height=69 width=100>
+</div>
+</td>
+
+<td BACKGROUND="/images/front/bg.gif" VALIGN=TOP>
+
+
+
+<center> 
+
+
+<center><b><font size=+1><b>Select a City in %%City%% to Shop in the Local Business & Shopping Network</font></b>
+</b><br><br>
+<center><table BORDER=0 COLS=1 CELLSPACING=3 WIDTH="100%"  >
+<tr>
+<td>
+<center><table BORDER=0 COLS=1 WIDTH="95%" >
+
+<center><table BORDER=0 CELLSPACING=3 CELLPADDING=3 COLS=5 WIDTH="93%" 
+>
+<tr>
+<td VALIGN=TOP WIDTH="15%"><i><font size=-1><a href="/AlbemarleNC/">Albemarle</a></font>
+<br><i><font size=-1><a href="/ApexNC/">Apex</a></font>
+<br><i><font size=-1><a href="/AsheboroNC/">Asheboro</a></font>
+<br><i><font size=-1><a href="/AshevilleNC/">Asheville</a></font>
+<br><i><font size=-1><a href="/BooneNC/">Boone</a></font>
+<br><i><font size=-1><a href="/BurlingtonNC/">Burlington</a></font>
+<br><i><font size=-1><a href="/CarrboroNC/">Carrboro</a></font>
+<br><i><font size=-1><a href="/CaryNC/">Cary</a></font>
+<br><i><font size=-1><a href="/Chapel-HillNC/">Chapel Hill</a></font>
+<br><i><font size=-1><a href="/CharlotteNC/">Charlotte</a></font>
+<br><i><font size=-1><a href="/ConcordNC/">Concord</a></font>
+<br><i><font size=-1><a href="/DurhamNC/">Durham</a></font>
+<br><i><font size=-1><a href="/EdenNC/">Eden</a></font></td>
+
+<td VALIGN=TOP WIDTH="15%">
+<div align=right><i><font size=-1><a href="/ElizabethNC/">Elizabeth</a></font>
+<br><i><font size=-1><a href="/FayettevilleNC/">Fayetteville</a></font>
+<br><i><font size=-1><a href="/GarnerNC/">Garner</a></font>
+<br><i><font size=-1><a href="/GastoniaNC/">Gastonia</a></font>
+<br><i><font size=-1><a href="/GoldsboroNC/">Goldsboro</a></font>
+<br><i><font size=-1><a href="/GrahamNC/">Graham</a></font>
+<br><i><font size=-1><a href="/GreensboroNC/">Greensboro</a></font>
+<br><i><font size=-1><a href="/GreenvilleNC/">Greenville</a></font>
+<br><i><font size=-1><a href="/HavelockNC/">Havelock</a></font>
+<br><i><font size=-1><a href="/HendersonNC/">Henderson</a></font>
+<br><i><font size=-1><a href="/HickoryNC/">Hickory</a></font>
+<br><i><font size=-1><a href="/High-PointNC/">High Point</a></font>
+<br><i><font size=-1><a href="/JacksonvilleNC/">Jacksonville</a></font></div>
+</td>
+
+<td VALIGN=CENTER WIDTH="25%">
+<center><img src="/Templates/state-pages/nc.jpg" alt="state flag"><br>
+<font size=-1><font color=000000>
+
+
+</td>
+
+<td VALIGN=TOP WIDTH="15%"><i><font size=-1><a href="/KannapolisNC/">Kannapolis</a></font>
+<br><i><font size=-1><a href="/KinstonNC/">Kinston</a></font>
+<br><i><font size=-1><a href="/LaurinburgNC/">Laurinburg</a></font>
+<br><i><font size=-1><a href="/LenoirNC/">Lenoir</a></font>
+<br><i><font size=-1><a href="/LexingtonNC/">Lexington</a></font>
+<br><i><font size=-1><a href="/LumbertonNC/">Lumberton</a></font>
+<br><i><font size=-1><a href="/MatthewsNC/">Matthews</a></font>
+<br><i><font size=-1><a href="/Mint-HillNC/">Mint Hill</a></font>
+<br><i><font size=-1><a href="/MonroeNC/">Monroe</a></font>
+<br><i><font size=-1><a href="/MorgantonNC/">Morganton</a></font>
+<br><i><font size=-1><a href="/New-BernNC/">New Bern</a></font>
+<br><i><font size=-1><a href="/NewtonNC/">Newton</a></font>
+<br><i><font size=-1><a href="/RaleighNC/">Raleigh</a></font></td>
+
+<td VALIGN=TOP WIDTH="15%">
+<div align=right><i><font size=-1><a href="/ReidsvilleNC/">Reidsville</a></font>
+<br><i><font size=-1><a href="/Roanoke-RapidsNC/">Roanoke Rapids</a></font>
+<br><i><font size=-1><a href="/Rocky-MountNC/">Rocky Mount</a></font>
+<br><i><font size=-1><a href="/SalisburyNC/">Salisbury</a></font>
+<br><i><font size=-1><a href="/SanfordNC/">Sanford</a></font>
+<br><i><font size=-1><a href="/ShelbyNC/">Shelby</a></font>
+<br><i><font size=-1><a href="/StatesvilleNC/">Statesville</a></font>
+<br><i><font size=-1><a href="/ThomasvilleNC/">Thomasville</a></font>
+<br><i><font size=-1><a href="/WilmingtonNC/">Wilmington</a></font>
+<br><i><font size=-1><a href="/WilsonNC/">Wilson</a></font>
+<br><i><font size=-1><a href="/Winston-SalemNC/">Winston Salem</a></font></div>
+</td>
+</tr>
+</table></center>
+
+
+
+<p><font color="000000"> <font size=+1><b>The %%City%% Business Marketing Network 
+<br><font color="000000"><font size=-1>%%City%% Business & Shopping Network Provides Excellent Search Placement</font>
+<center><table BORDER=1 COLS=1 CELLSPACING=3 WIDTH="735" BGCOLOR="FFFFFF" BORDERCOLOR=000000>
+<tr>
+<td>
+<center><table BORDER=0 COLS=1 WIDTH="735" >
+<tr>
+<td>
+
+<center>
+
+<!--------- begin button table template ----------------------->
+<!--------- begin button table template ----------------------->
+<!--------- begin button table template ----------------------->
+<!--------- begin button table template ----------------------->
+
+<center>
+
+<table BORDER=0 CELLSPACING=10 CELLPADDING=0 COLS=5 HEIGTH="56"  >
+
+
+    <!--Buttons-->
+
+</td></tr>
+</table>
+
+
+</center></center></center>
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<P>
+
+</TD>
+</tr>
+</table></center>
+
+
+<center><table BORDER=0 COLS=1 WIDTH="100%" HEIGHT=33 BACKGROUND="/images/front/botton-nav2.gif"  style="border-collapse: collapse">
+<tr>
+<TD VALIGN=CENTER> 
+
+<center><FONT SIZE=-2><B><font color=ffffff>Client Services: &nbsp;&nbsp;
+<a href="/local.html" title="Local Advertising"><font color=ffffff><font size=-2><b>Local</a> &nbsp;&nbsp;
+<a href="/state.html" title="State Advertising"><font color=ffffff>State</a> &nbsp;&nbsp;
+<a href="/national.html" title="National Advertising"><font color=ffffff>National</a> &nbsp;&nbsp;
+<a href="/web_development/" title="Websites"><font color=ffffff>Websites</a> &nbsp;&nbsp;
+<a href="/strategies.html" title="Coupons"><font color=ffffff>Coupons</a> &nbsp;&nbsp;
+<a href="/website-packages/" title="Optimize"><font color=ffffff>Optimize</a> &nbsp;&nbsp;
+<a href="/marketing-programs/" title="Memberships"><font color=ffffff>Memberships</a> &nbsp;&nbsp;
+<a href="/marketing/advertisers.html" title="Rates"><font color=ffffff>Rate Card</a> &nbsp;&nbsp;
+<a href="/Awards/" title="About"><font color=ffffff>About Us</a> &nbsp;&nbsp;
+<a href="/contact.html" title="Contact Us"><font color=ffffff>Contact</a> &nbsp;&nbsp;
+<a href="/index.html" title="Contact Us"><font color=ffffff>Home</a> &nbsp;&nbsp;
+</center>
+</TD>
+
+</tr>
+</table></center>
+
+
+</body>
+</html>

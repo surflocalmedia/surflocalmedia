@@ -1,0 +1,347 @@
+<link href="/stylee.css" rel="stylesheet" type="text/css" />
+
+<!-- start edit backgrounds -->
+
+<center><font size=+2>Choose One Background for your Website</font></center>
+
+<center><table BORDER=1 COLS=2 WIDTH="90%" BGCOLOR="#FFFFFF" BACKGROUND="http://www.surflocal.net/images/white_table.jpg" >
+<tr>
+<td VALIGN=TOP>
+
+<center><table BORDER=1 WIDTH="50%" >
+<tr>
+<td WIDTH="6%"><input TYPE="radio" VALUE="../../images/blue1.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/blue1-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/celery.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/celery1-th.jpg" NOSAVE height=39 width=100></td>
+
+<td></td>
+</tr>
+
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/golden-1.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/golden1-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/green-1.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/green1-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/grey1.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/grey1-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/lilac1.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/lilac1-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/ltblue1.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/ltblue1-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/magenta-1.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/magenta1-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/orange1.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/orange1-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/orchid1.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/orchid1-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/pink1.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/pink1-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/red1.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/red1-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/tan1.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/tan1-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/yellow1.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/yellow1-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+
+<tr>
+<td></td>
+</tr>
+</table></center>
+</td>
+
+<td VALIGN=TOP>
+<center><table BORDER=1 WIDTH="50%" >
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/bl-royal.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/bl-royal-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/black.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/black-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/blue.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/blue-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/fushia.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/fushia-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/gold.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/gold-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/green.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/green-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/lilac.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/lilac-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/orange.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/orange-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/purple.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/purple-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/red.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/red-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/rust.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/rust-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/salmon.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/salmon-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/steel.jpg" NAME="BackgroundImage"></td>
+
+<td VALIGN=TOP WIDTH="94%"><img SRC="http://www.surflocal.net/images/steel-th.jpg" NOSAVE height=39 width=100></td>
+
+<td><input TYPE="radio" Value="../../images/teal.jpg" NAME="BackgroundImage"></td>
+
+<td><img SRC="http://www.surflocal.net/images/teal-th.jpg" NOSAVE height=39 width=100></td>
+</tr>
+</table></center>
+</td>
+</tr>
+</table></center>
+
+<center><table BORDER=1 COLS=2 WIDTH="90%" BGCOLOR="#FFFFFF" BACKGROUND="http://www.surflocal.net/images/white_table.jpg"  >
+
+<p><caption><font color="000000"><font size=-1><b>You may click on any sample
+background image in this section to see a full view</b></font></font></caption>
+
+<tr>
+<td VALIGN=TOP>
+<center><table BORDER=1 COLS=4 WIDTH="90%" >
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/4.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/4.jpg"><img SRC="http://www.surflocal.net/images/4_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/2.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/2.jpg"><img SRC="http://www.surflocal.net/images/2_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/3.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/3.jpg"><img SRC="http://www.surflocal.net/images/3_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/lay1-4.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/lay1-4.jpg"><img SRC="http://www.surflocal.net/images/lay1-4th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/lay1-8.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/lay1-8.jpg"><img SRC="http://www.surflocal.net/images/lay1-8th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/5.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/5.jpg"><img SRC="http://www.surflocal.net/images/5_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/6.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/6.jpg"><img SRC="http://www.surflocal.net/images/6_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/7.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/7.jpg"><img SRC="http://www.surflocal.net/images/7_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/8.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/8.jpg"><img SRC="http://www.surflocal.net/images/8_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/9.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/9.jpg"><img SRC="http://www.surflocal.net/images/9_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/13.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/13.jpg"><img SRC="http://www.surflocal.net/images/13_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/14.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/14.jpg"><img SRC="http://www.surflocal.net/images/14_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/15.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/15.jpg"><img SRC="http://www.surflocal.net/images/15_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/16.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/16.jpg"><img SRC="http://www.surflocal.net/images/16_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/17.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/17.jpg"><img SRC="http://www.surflocal.net/images/17_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/18.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/18.jpg"><img SRC="http://www.surflocal.net/images/18_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+</table></center>
+</td>
+
+<td VALIGN=TOP>
+<center><table BORDER=1 COLS=4 WIDTH="90%" >
+<tr>
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/1.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/1.jpg"><img SRC="http://www.surflocal.net/images/1_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td WIDTH="6%"><input TYPE="radio" Value="../../images/11.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/11.jpg"><img SRC="http://www.surflocal.net/images/11_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/25.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/25.jpg"><img SRC="http://www.surflocal.net/images/25_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/12.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/12.jpg"><img SRC="http://www.surflocal.net/images/12_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/26.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/26.jpg"><img SRC="http://www.surflocal.net/images/26_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/lay1-10.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/lay1-10.jpg"><img SRC="http://www.surflocal.net/images/lay1-10th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/23.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/23.jpg"><img SRC="http://www.surflocal.net/images/23_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/lay1-5.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/lay1-5.jpg"><img SRC="http://www.surflocal.net/images/lay1-5th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/22.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/22.jpg"><img SRC="http://www.surflocal.net/images/22_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/24.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/24.jpg"><img SRC="http://www.surflocal.net/images/24_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/lay2-31.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/lay2-31.jpg"><img SRC="http://www.surflocal.net/images/lay2-31th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/27.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/27.jpg"><img SRC="http://www.surflocal.net/images/27_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/lay2-33.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/lay2-33.jpg"><img SRC="http://www.surflocal.net/images/lay2-33th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/19.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/19.jpg"><img SRC="http://www.surflocal.net/images/19_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+
+<tr>
+<td><input TYPE="radio" Value="../../images/21.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/21.jpg"><img SRC="http://www.surflocal.net/images/21_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+
+<td><input TYPE="radio" Value="../../images/20.jpg" NAME="BackgroundImage"></td>
+
+<td><a href="http://www.surflocal.net/images/20.jpg"><img SRC="http://www.surflocal.net/images/20_th.jpg" NOSAVE BORDER=0 height=39 width=100></a></td>
+</tr>
+</table></center>
+</td>
+</tr>
+</table></center>
+
+
+<!--End Background image stuff-->
+
+
+</body>
+</html>

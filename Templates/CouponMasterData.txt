@@ -1,0 +1,29 @@
+CouponBusinessName|Business Name
+CouponImage5|<img SRC="https://www.surflocalmedia.com/images/coupon-logo.jpg">
+CouponShoppingVid|Embed code for Video  , size of video 300 X 200
+CouponShopping|Embed code for buy now button width 300
+CouponVideo| Embed Shopping, Video or Buy Now , size of video 300 X 200
+CouponImage1|<img SRC="https://www.surflocalmedia.com/images/coupon1_image.jpg">
+CouponImage2|<img SRC="https://www.surflocalmedia.com/images/coupon_image.jpg">
+CouponImage3|<img SRC="https://www.surflocalmedia.com/images/coupon_example_a.jpg">
+CouponImage4|<img src="https://www.surflocalmedia.com/images/coupon-banner.jpg">
+CouponOfferText|"Buy One Get One Free"
+GiftValue|$30
+CouponBusinessLink|https://www.surflocalmedia.com
+CouponBusinessLinkText|Our Website
+CouponBusinessNumberText|888-888-8888
+CouponBusinessName2|Business Name Here
+CouponEmailAddress|agent@surflocalmedia.com 
+CouponEmailText|E-mail Us
+CouponAddress|Type your street address, city, state, zip here
+CouponPhoneNumber|Phone: (222) 222-2222
+CouponGoodThru|Date Expires
+CouponGoodThru2|Date Expires
+TitleTag|Example of Marketing Ad on surflocalmedia.com
+DescriptionTag|searchable phrases that describe your ad in 30 words or less
+Keywords|Keywords, separated by commas, maximum of 20 keywords
+Category|Text found under the ad that describes the offer
+BarCodeImage|<img src="https://www.surflocalmedia.com/images/barcode.jpg">
+CouponType|$30 Gift Certificate
+Terms|Disclainers or Terms and Conditions of your offer
+UserLinksC|<a href="https://www.surflocalmedia.com/">Your Link Text Here</a>  <---- cut and paste your info here  

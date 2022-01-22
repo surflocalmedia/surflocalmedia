@@ -1,0 +1,420 @@
+
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN" />
+<br>
+   <head>
+   <meta name="GENERATOR" content="Edit Pad"/>
+   <meta name="Robots" content="index,follow"/>
+   <meta name="revisit after" content="every 3 days"/>
+   <meta name="distribution" content="global"/>   
+   <meta name="google-site-verification" content="Qo2396bWSEuJHigKjOrBGd3wsA1a6x0RvQafE2iB3_Q" />
+   <meta name="msvalidate.01" content="36A9DACFE5198BDA18F3E6EBAC58C1A2" />
+    <meta name="keywords" content="local, coupon, marketing, search, engine, placement, local, coupon, marketing, local, business, shopping, network, local, businesses, business, network, shopping, network, local coupon pricing, business directory, online shopping, hotels, buy local coupons , local business directories, local coupon creator, shop local discount, pricing coupon creator"">
+<meta name="description" content="Consulting on Coupon Advertising  Level Two Membership with Local Coupon Marketing $360 for yearly Membership Includes 3 hour Consultation  Free Hosting and Free Marketing on the Surflocal Marketing System  All monthly marketing fees are  waved with yearly membership ">
+<title> Surflocal USA-  Coupon Advertising, Online Coupon Marketing Program, make changes daily, weekly or monthly it is up to you. Our editable coupons provide online advertising for you to promote various specials at your discretion.</title>
+
+<body bgcolor="000000">
+
+<link href="/style.css" rel="stylesheet" type="text/css" />
+<script language="javascript">
+
+/*
+Auto center window script- Eric King (https://redrival.com/eak/index.shtml)
+Permission granted to Dynamic Drive to feature script in archive
+For full source, usage terms, and 100's more DHTML scripts, visit https://dynamicdrive.com
+*/
+
+var win = null;
+function NewWindow(mypage,myname,w,h,scroll){
+LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
+TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
+settings =
+'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',resizable'
+win = window.open(mypage,myname,settings)
+}
+
+</script>
+
+
+</head> 
+
+
+
+<script type="text/javascript">
+      
+/***********************************************
+* Ultimate Fade-In Slideshow (v1.51): © Dynamic Drive (https://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit https://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+ 
+var fadeimages=new Array()
+//SET IMAGE PATHS. Extend or contract array as needed
+fadeimages[0]=["https://www.surflocal.net/images/front/1.jpg", "", ""] //plain image syntax
+fadeimages[1]=["https://www.surflocal.net/images/front/2.jpg", "", ""] //plain image syntax
+fadeimages[2]=["https://www.surflocal.net/images/front/3.jpg", "", ""] //plain image syntax
+fadeimages[3]=["https://www.surflocal.net/images/front/4.jpg", "", ""] //plain image syntax
+fadeimages[4]=["https://www.surflocal.net/images/front/5.jpg", "", ""] //plain image syntax
+fadeimages[5]=["https://www.surflocal.net/images/front/6.jpg", "", ""] //plain image syntax
+fadeimages[6]=["https://www.surflocal.net/images/front/7.jpg", "", ""] //plain image syntax
+fadeimages[7]=["https://www.surflocal.net/images/front/8.jpg", "", ""] //plain image syntax
+
+var fadebgcolor="black"
+
+////NO need to edit beyond here/////////////
+ 
+var fadearray=new Array() //array to cache fadeshow instances
+var fadeclear=new Array() //array to cache corresponding clearinterval pointers
+ 
+var dom=(document.getElementById) //modern dom browsers
+var iebrowser=document.all
+ 
+function fadeshow(theimages, fadewidth, fadeheight, borderwidth, delay, pause, displayorder){
+this.pausecheck=pause
+this.mouseovercheck=0
+this.delay=delay
+this.degree=10 //initial opacity degree (10%)
+this.curimageindex=0
+this.nextimageindex=1
+fadearray[fadearray.length]=this
+this.slideshowid=fadearray.length-1
+this.canvasbase="canvas"+this.slideshowid
+this.curcanvas=this.canvasbase+"_0"
+if (typeof displayorder!="undefined")
+theimages.sort(function() {return 0.5 - Math.random();}) //thanks to Mike (aka Mwinter) :)
+this.theimages=theimages
+this.imageborder=parseInt(borderwidth)
+this.postimages=new Array() //preload images
+for (p=0;p<theimages.length;p++){
+this.postimages[p]=new Image()
+this.postimages[p].src=theimages[p][0]
+}
+ 
+var fadewidth=fadewidth+this.imageborder*2
+var fadeheight=fadeheight+this.imageborder*2
+ 
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers (ie: Firefox)
+document.write('<div id="master'+this.slideshowid+'" style="position:relative;width:'+fadewidth+'px;height:'+fadeheight+'px;overflow:hidden;"><div id="'+this.canvasbase+'_0" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div><div id="'+this.canvasbase+'_1" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div></div>')
+else
+document.write('<div><img name="defaultslide'+this.slideshowid+'" src="'+this.postimages[0].src+'"></div>')
+ 
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers such as Firefox
+this.startit()
+else{
+this.curimageindex++
+setInterval("fadearray["+this.slideshowid+"].rotateimage()", this.delay)
+}
+}
+
+function fadepic(obj){
+if (obj.degree<100){
+obj.degree+=10
+if (obj.tempobj.filters&&obj.tempobj.filters[0]){
+if (typeof obj.tempobj.filters[0].opacity=="number") //if IE6+
+obj.tempobj.filters[0].opacity=obj.degree
+else //else if IE5.5-
+obj.tempobj.style.filter="alpha(opacity="+obj.degree+")"
+}
+else if (obj.tempobj.style.MozOpacity)
+obj.tempobj.style.MozOpacity=obj.degree/101
+else if (obj.tempobj.style.KhtmlOpacity)
+obj.tempobj.style.KhtmlOpacity=obj.degree/100
+else if (obj.tempobj.style.opacity&&!obj.tempobj.filters)
+obj.tempobj.style.opacity=obj.degree/101
+}
+else{
+clearInterval(fadeclear[obj.slideshowid])
+obj.nextcanvas=(obj.curcanvas==obj.canvasbase+"_0")? obj.canvasbase+"_0" : obj.canvasbase+"_1"
+obj.tempobj=iebrowser? iebrowser[obj.nextcanvas] : document.getElementById(obj.nextcanvas)
+obj.populateslide(obj.tempobj, obj.nextimageindex)
+obj.nextimageindex=(obj.nextimageindex<obj.postimages.length-1)? obj.nextimageindex+1 : 0
+setTimeout("fadearray["+obj.slideshowid+"].rotateimage()", obj.delay)
+}
+}
+ 
+fadeshow.prototype.populateslide=function(picobj, picindex){
+var slideHTML=""
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML='<a href="'+this.theimages[picindex][1]+'" target="'+this.theimages[picindex][2]+'">'
+slideHTML+='<img src="'+this.postimages[picindex].src+'" border="'+this.imageborder+'px">'
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML+='</a>'
+picobj.innerHTML=slideHTML
+}
+ 
+ 
+fadeshow.prototype.rotateimage=function(){
+if (this.pausecheck==1) //if pause onMouseover enabled, cache object
+var cacheobj=this
+if (this.mouseovercheck==1)
+setTimeout(function(){cacheobj.rotateimage()}, 100)
+else if (iebrowser&&dom||dom){
+this.resetit()
+var crossobj=this.tempobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+crossobj.style.zIndex++
+fadeclear[this.slideshowid]=setInterval("fadepic(fadearray["+this.slideshowid+"])",50)
+this.curcanvas=(this.curcanvas==this.canvasbase+"_0")? this.canvasbase+"_1" : this.canvasbase+"_0"
+}
+else{
+var ns4imgobj=document.images['defaultslide'+this.slideshowid]
+ns4imgobj.src=this.postimages[this.curimageindex].src
+}
+this.curimageindex=(this.curimageindex<this.postimages.length-1)? this.curimageindex+1 : 0
+}
+ 
+fadeshow.prototype.resetit=function(){
+this.degree=10
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+if (crossobj.filters&&crossobj.filters[0]){
+if (typeof crossobj.filters[0].opacity=="number") //if IE6+
+crossobj.filters(0).opacity=this.degree
+else //else if IE5.5-
+crossobj.style.filter="alpha(opacity="+this.degree+")"
+}
+else if (crossobj.style.MozOpacity)
+crossobj.style.MozOpacity=this.degree/101
+else if (crossobj.style.KhtmlOpacity)
+crossobj.style.KhtmlOpacity=this.degree/100
+else if (crossobj.style.opacity&&!crossobj.filters)
+crossobj.style.opacity=this.degree/101
+}
+ 
+ 
+fadeshow.prototype.startit=function(){
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+this.populateslide(crossobj, this.curimageindex)
+if (this.pausecheck==1){ //IF SLIDESHOW SHOULD PAUSE ONMOUSEOVER
+var cacheobj=this
+var crossobjcontainer=iebrowser? iebrowser["master"+this.slideshowid] : document.getElementById("master"+this.slideshowid)
+crossobjcontainer.onmouseover=function(){cacheobj.mouseovercheck=1}
+crossobjcontainer.onmouseout=function(){cacheobj.mouseovercheck=0}
+}
+this.rotateimage()
+}
+
+</script>
+<link rel="stylesheet" type="text/css" href="tabcontent.css" />
+<script type="text/javascript" src="tabcontent.js">
+
+/***********************************************
+* Tab Content script v2.2- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at https://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+
+</head>
+
+<center><table BORDER=2 COLS=1 WIDTH="980" style="border-collapse: collapse" bordercolor=9F8D5B>
+<tr>
+<TD>
+<center><table BORDER=0 COLS=2 WIDTH="975" HEIGHT="239" style="background:url('/images/front/top-banner.jpg') no-repeat;">
+<tr>
+<td WIDTH="765" VALIGN="TOP" >
+<FONT COLOR=FFFFFF><B>&nbsp;&nbsp;<font size=-1>Surflocal USA Advertising Network 
+<br><br><br>&nbsp;&nbsp;
+<a href="/index.html"><img src="/clear.gif" border=0></A>
+<br><font size=-1><b><FONT COLOR=FFFFFF>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Surflocal U.S.A. Network
+<br>&nbsp;Local Regional & National Marketing</FONT></b></td>
+
+
+<center>
+<td><div valign=bottom align="center">
+
+<br>
+<center>
+<script type="text/javascript">
+//new fadeshow(IMAGES_ARRAY_NAME, slideshow_width, slideshow_height, borderwidth, delay, pause (0=no, 1=yes), optionalRandomOrder)
+new fadeshow(fadeimages, 200, 194, 0, 3000, 1, "R")
+ 
+</script></CENTER>
+</div></td>
+
+</tr>
+
+</table>
+
+<table BORDER=0 COLS=1 WIDTH="975" HEIGHT=23 BGCOLOR="#382D2C" style="background:url('https://www.surflocal.net/images/front/botton-nav2.gif')"  style="border-collapse: collapse">
+<tr>
+<TD> <center>
+ <CENTER>
+ <center><FONT SIZE=-1><B>
+
+</TD>
+
+</tr>
+</table></center>
+
+<center><table BORDER=0 COLS=2 WIDTH="975">
+<tr>
+<td valign="top" width=177 BACKGROUND="/images/front/leftbg.gif">
+
+<div align=right>
+<BR>
+<b><a href="https://www.surflocal.net/sitemap.html"><font size +2><p><font color=ffffff>Our Services: &nbsp;&nbsp;
+<BR><BR>
+
+<p><a href="https://www.surflocal.net/strategies.html"><b><font color=ffffff><font size +1>Strategies</a>&nbsp;&nbsp;&nbsp;
+
+<p><a href="https://www.surflocal.net/mission/"><b><font color=ffffff><font size +1>Mission</a>&nbsp;&nbsp;&nbsp;
+
+<p><a href="https://www.surflocal.net/terms.html"><b><font color=ffffff><font size +1>Privacy</a>&nbsp;&nbsp;&nbsp;
+
+<p><a href="https://www.surflocal.net/pricing/"><b><font color=ffffff><font size +1>Pricing</a>&nbsp;&nbsp;&nbsp;
+
+<p><a href="https://www.surflocal.net/office/"><b><font color=ffffff><font size +1>Office&nbsp;&nbsp;&nbsp;
+
+<p><a href="https://www.surflocal.net/contact.html"><b><font color=ffffff><font size +1>Contact&nbsp;&nbsp;&nbsp;
+
+<p><a href="https://www.surflocal.net/resellers/"><b><font color=ffffff><font size +1>Resellers</a>&nbsp;&nbsp;&nbsp;
+
+<p><right> <font size +1><p><font color=ffffff> 806 340 6761&nbsp;&nbsp;
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+
+</div>
+</td>
+
+
+<td BACKGROUND="/images/front/bg.gif" VALIGN=bottom>
+
+
+
+<center> 
+<br>
+<center><center><center><center><font color=00148D> Our Coupon Advertising & Online Marketing Program
+ <br><FONT COLOR=382D2C>We create online advertising to promote your specials.
+
+<P>
+<center><table BORDER=0 COLS=1  WIDTH="735" >
+<tr>
+<td>
+<font size=-1>
+<p>
+<font color=00148D>We offer you both a better value and a greater return on your marketing investment with some 
+extraordinary results. <FONT COLOR=382D2C>While we are not a free service, for a small monthly fee we can escalate 
+your presence on the Internet. We also provide services to build unique, custom on-line marketing packages that will dramatically increase your local search engine placement and  we do it at a fraction of the cost. 
+
+
+<P>SURFLOCAL.NET will assist you in designing an 
+accurate local search placement marketing 
+campaign with results you will actually see on 
+the major search engines. 
+</tr></table>
+
+</center></center></center></center></blockquote>
+
+<p>
+<center><table BORDER=0 COLS=2  CELLSPACING=5 CELLPADDING=5  WIDTH="735" >
+<tr>
+
+
+<td>
+<center><img src="/front-arch.jpg" alt="feature ad - service ad - e-marketing coupons"></td>
+
+<td>
+<p><font color=382D2C><font size=-1>
+<LI> <font color=00148D>Online coupons carry much lower overhead <font color=382D2C>than direct 
+mail and newspaper and are eco-friendly with our 'Think 
+Green - View to Redeem' program 
+<LI> <font color=00148D>Customers can print your coupons <font color=382D2C>- or - they can click on a 
+link to your website which promotes both your actual and 
+virtual storefront 
+<LI><font color=00148D> Online Coupons bring qualified customers<font color=382D2C> into your 
+business increasing the value of your online marketing 
+<LI><font color=00148D> Online coupons serve as a flexible tool<font color=382D2C> to highlight specific 
+products and services that may not otherwise be offered on 
+your website 
+<LI><font color=00148D> Customers share good coupon offers <font color=382D2C>with their clients, 
+friends & family 
+<LI><font color=00148D> In addition, our coupon ads can increase your natural 
+search placement,<font color=382D2C> adding value to your website 
+
+</tr></td></table></center></center>
+
+
+
+
+<center><table BORDER=0 COLS=2  WIDTH="735" >
+<tr>
+<TD WIDTH=100%><p><font color=382D2C><font size=-1>Our Online Coupons Ads act as incentive offers to drive 
+qualified traffic to your business. Online Coupon Ads are 
+a great stand alone web presence for businesses that 
+need additional targeted online marketing for the 
+purpose of qualifying lead generation and enhancing 
+current promotional campaigns. 
+
+<p><center><b><font color="382D2C">Call (806) 471-2000 or e-mail <a href="mailto:agent@surflocal.net"><font color=00148D>agent@surflocal.net</a></b>
+
+<td VALIGN=TOP>
+ </TD>
+</TR></TABLE>
+
+
+</blockquote>
+<p>
+<center><table BORDER=3 COLS=5 WIDTH="100%" BGCOLOR=00148D >
+<tr>
+<td width=100><a href="/communitymarketing/tutorial-vids/1.html" onclick="NewWindow(this.href,'name','700','550','yes');return false"><FONT COLOR=FFFFFF><B><img src="/communitymarketing/tutorial-vids/1.jpg" border=0 alt="Surflocal.Net Visual Edit-- Gift Certificate"></a></td>
+
+<td width=100><a href="/communitymarketing/tutorial-vids/2.html" onclick="NewWindow(this.href,'name','700','550','yes');return false"><FONT COLOR=FFFFFF><B><img src="/communitymarketing/tutorial-vids/2.jpg" border=0 alt="Surflocal.Net Visual Edit-- Incentive Ad"></a></td>
+
+<td width=100><a href="/communitymarketing/tutorial-vids/3.html" onclick="NewWindow(this.href,'name','700','550','yes');return false"><FONT COLOR=FFFFFF><B>
+<img src="/communitymarketing/tutorial-vids/3.jpg" border=0 alt="Surflocal.Net Visual Edit-- Shopping Coupon"></a></td>
+
+<td width=100><a href="/communitymarketing/tutorial-vids/4.html" onclick="NewWindow(this.href,'name','700','550','yes');return false"><FONT COLOR=FFFFFF><B>
+<img src="/communitymarketing/tutorial-vids/4.jpg" border=0 alt="Surflocal.Net Visual Edit-- Video Coupon"></a></td>
+
+<td><center><form action="/office/mailer-r.php" method="post"> <input type="hidden"
+    name="subject"
+    value="Referral Form">
+<FONT COLOR=FFFFFF><B><FONT SIZE=+1>
+<p>CONTACT US
+<center><br><FONT COLOR=FFFFFF><B><FONT SIZE=-1>Name
+<center><input type="text" size="18" name="name" >
+<center>Phone
+<center><input type="text" size="18" name="Phone" >
+<center>Ask Question
+<center><input type="text" size="18" name="Ask Question" >
+<center><p><input type=submit 
+value="Send to Us" >
+</form>
+
+
+
+</td>
+
+</tr>
+</table></center>  
+</center>
+</TD>
+</tr>
+</table></center>
+
+<center><table BORDER=0 COLS=1 WIDTH="975" HEIGHT=23 BACKGROUND="/images/front/botton-nav2.gif"  style="border-collapse: collapse">
+<tr>
+<TD VALIGN=CENTER align="center"> <CENTER><FONT SIZE=-1><B>
+
+</center>
+</TD>
+
+</TD>
+
+</tr>
+</table></center>
+
+</body>
+</html>
+</TD>
+
+</tr>
+</table></center>
+<BR>
+<BR>

@@ -1,0 +1,393 @@
+<link href="/stylee.css" rel="stylesheet" type="text/css" />
+
+<center><table BORDER WIDTH="90%" class="table" >
+<tr>
+<td ALIGN=CENTER>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input 
+
+            type="radio" name="ButtonColor" value="1_1"><img SRC="%%ImageDir%%/1_1-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td ALIGN=CENTER>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input 
+
+            type="radio" name="ButtonColor" value="1_2"><img SRC="%%ImageDir%%/1_2-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td ALIGN=CENTER>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input 
+
+            type="radio" name="ButtonColor" value="6_8"><img SRC="%%ImageDir%%/6_8-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td ALIGN=CENTER>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input 
+
+            type="radio" name="ButtonColor" value="1_4"><img SRC="%%ImageDir%%/1_4-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td ALIGN=CENTER>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input 
+
+            type="radio" name="ButtonColor" value="1_5"><img SRC="%%ImageDir%%/1_5-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td ALIGN=CENTER>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input 
+
+            type="radio" name="ButtonColor" value="1_6"><img SRC="%%ImageDir%%/1_6-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td ALIGN=CENTER>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input 
+
+            type="radio" name="ButtonColor" value="1_7"><img SRC="%%ImageDir%%/1_7-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td ALIGN=CENTER>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input 
+
+            type="radio" name="ButtonColor" value="1_8"><img SRC="%%ImageDir%%/1_8-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+</tr>
+
+<tr>
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="2_1"><img SRC="%%ImageDir%%/2_1-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="2_2"><img SRC="%%ImageDir%%/2_2-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="2_3"><img SRC="%%ImageDir%%/2_3-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="2_4"><img SRC="%%ImageDir%%/2_4-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="2_5"><img SRC="%%ImageDir%%/2_5-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="2_6"><img SRC="%%ImageDir%%/2_6-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="2_7"><img SRC="%%ImageDir%%/2_7-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="2_8"><img SRC="%%ImageDir%%/2_8-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+</tr>
+
+<tr>
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="3_1"><img SRC="%%ImageDir%%/3_1-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="3_2"><img SRC="%%ImageDir%%/3_2-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER><input type="radio"
+
+            name="ButtonColor" value="3_3"><img SRC="%%ImageDir%%/3_3-sample.jpg" NOSAVE height=36 width=36></td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="3_4"><img SRC="%%ImageDir%%/3_4-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="3_5"><img SRC="%%ImageDir%%/3_5-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="3_6"><img SRC="%%ImageDir%%/3_6-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="3_7"><img SRC="%%ImageDir%%/3_7-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="3_8"><img SRC="%%ImageDir%%/3_8-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+</tr>
+
+<tr>
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="4_1"><img SRC="%%ImageDir%%/4_1-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="4_2"><img SRC="%%ImageDir%%/4_2-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="4_3"><img SRC="%%ImageDir%%/4_3-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="4_4"><img SRC="%%ImageDir%%/4_4-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="4_5"><img SRC="%%ImageDir%%/4_5-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="4_6"><img SRC="%%ImageDir%%/4_6-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="4_7"><img SRC="%%ImageDir%%/4_7-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="4_8"><img SRC="%%ImageDir%%/4_8-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+</tr>
+
+<tr>
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="5_1"><img SRC="%%ImageDir%%/5_1-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="5_2"><img SRC="%%ImageDir%%/5_2-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="5_3"><img SRC="%%ImageDir%%/5_3-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td>
+<center><input type="radio"
+
+            name="ButtonColor" value="5_4"><img SRC="%%ImageDir%%/5_4-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="5_5"><img SRC="%%ImageDir%%/5_5-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="5_6"><img SRC="%%ImageDir%%/5_6-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="5_7"><img SRC="%%ImageDir%%/5_7-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="5_7"><img SRC="%%ImageDir%%/5_8-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+</tr>
+
+<tr>
+<td></td>
+
+<td ALIGN=CENTER>
+<center><input type="radio"
+
+            name="ButtonColor" value="6_2"><img SRC="%%ImageDir%%/6_2-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td>
+<center><input type="radio"
+
+            name="ButtonColor" value="6_3"><img SRC="%%ImageDir%%/6_3-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td>
+<center><input type="radio"
+
+            name="ButtonColor" value="6_4"><img SRC="%%ImageDir%%/6_4-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td>
+<center><input type="radio"
+
+            name="ButtonColor" value="6_5"><img SRC="%%ImageDir%%/6_5-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td>
+<center><input type="radio"
+
+            name="ButtonColor" value="6_6"><img SRC="%%ImageDir%%/6_6-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td>
+<center><input type="radio"
+
+            name="ButtonColor" value="6_7"><img SRC="%%ImageDir%%/6_7-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td></td>
+
+<td>
+<center><input type="radio"
+
+            name="ButtonColor" value="0_0"><img SRC="%%ImageDir%%/0_0-sample.jpg" NOSAVE height=36 width=36></center>
+</td>
+
+<td>&nbsp;</font></td>
+
+<td><font color=ffffff>&nbsp;&lt;--Black</font></td>
+</tr>
+</table></center>

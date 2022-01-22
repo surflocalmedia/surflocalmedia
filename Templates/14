@@ -1,0 +1,238 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN"/>
+   <head>
+   <meta name="GENERATOR" content=" 14 "/>
+   <meta name="Robots" content="index,follow"/>
+   <meta name="revisit after" content="every 3 days"/>
+   <meta name="distribution" content="global"/>
+   <meta name="google-site-verification" content="_Gla4qKE0YRLeVVsFfMQdY7l1GkogeW2xUF94k4Zw3Y" />
+   <meta name="msvalidate.01" content="BF19CA412E1917D15534C77BDB6EE173" />
+   <meta name="Description" content="<!--DescriptionTag-->"/>
+   <meta name="Keywords" content="<!--Keywords-->  "/>
+   <title><!--TitleTag--></title> 
+   </head>
+<body text="%%FontColor%%" bgcolor="#ffffff" link="%%FontColor%%" vlink="%%FontColor%%" alink="#600000" bgproperties="fixed" background=https://www.surflocalmedia.com/images/white_table.jpg  body style=" border-right: thick groove rgb(255,255,255); border-left: thick groove rgb(255,255,255); border-top: thick groove rgb(255,255,255); border-bottom: thick groove rgb(255,255,255)">
+<style>BODY {
+SCROLLBAR-HIGHLIGHT-COLOR: #ffd201; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #ffd098; SCROLLBAR-TRACK-COLOR: %%FontColor%%; ; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: %%FontColor%%; BORDER-LIGHT-COLOR: #ffd098; BORDER-DARK-COLOR: #ffd098}
+
+</style>
+
+<!-- BodyStuff -->
+
+<!-- Font stuff -->
+<style>A {
+	TEXT-DECORATION: underline
+}
+A:hover {
+	TEXT-TRANSFORM: uppercase; COLOR: #ffffff; BACKGROUND-COLOR: %%FontColor%%
+}
+A:hover {
+	TEXT-DECORATION: underline overline
+}
+A:hover {
+	TEXT-DECORATION: underline overline
+}
+</style>
+<!-- Font stuff -->
+
+<center><table BORDER=0 COLS=3 CELLPADDING=7 WIDTH="60%" BACKGROUND="/images/solid-47.jpg" >
+
+<tr borderColor="#ffffff">
+
+<td>
+
+<center>
+<h1>
+<!-- Font stuff -->
+<font color=ffffff>
+<!--BusinessName-->
+
+</center>
+
+
+
+
+
+
+</td></tr></table>
+<CENTER><table BORDER=0 COLS=3 WIDTH="60%" BACKGROUND=https://www.surflocalmedia.com/images/white_table.jpg borderColor="%%FontColor%%">
+<td VALIGN=TOP WIDTH="100" BACKGROUND=%%BackgroundImage%%>
+
+
+</td>
+<td VALIGN=TOP>
+
+<center>
+<!-- Font stuff -->
+<Font size=-1>-
+
+<!-- ProductLinks --> 
+-
+<!--UserLinks-->
+ -
+
+</font></center>
+
+
+<center>
+
+<!--Paragraph25-->
+</center>
+<p>
+
+
+<center><table BORDER=0 COLS=1 WIDTH="90%" >
+
+<tr>
+<td>
+<!-- Font stuff -->
+<center><font size=+2>
+<!--Paragraph5-->
+</center></font>
+<!-- Font stuff -->
+<br>
+
+<p><BR>
+<!--Paragraph2-->
+
+<br>
+</td>
+</tr>
+</table></center>
+
+<center><table BORDER=0 COLS=1 WIDTH="90%" >
+<caption>
+<center>
+<!-- Font stuff -->
+<br><center><font size=+2>
+<!--Paragraph6-->
+
+</center>
+</caption>
+
+<tr>
+<td><LEFT>
+<!-- Font stuff -->
+<!--Paragraph3A-->
+</LEFT>
+<br>
+<br></td>
+</tr>
+</table></center>
+
+
+
+</td>
+
+<td VALIGN=TOP WIDTH="100" BACKGROUND=%%BackgroundImage%%>
+
+
+</td>
+
+</tr>
+</table></center>
+<center><table BORDER=0 COLS=3 CELLPADDING=7 WIDTH="60%" BACKGROUND="/images/solid-47.jpg" >
+
+<tr borderColor="#ffffff">
+
+<td width=320>
+
+
+
+
+
+<!-- Font stuff -->
+
+<font color=ffffff>
+
+Contact:&nbsp;
+
+<font color=ffffff>
+
+<!--BusinessName-->
+
+
+
+<br>
+
+
+
+
+
+<font color=ffffff>
+
+<!--Address-->
+
+<br><font color=ffffff>
+
+Phone:&nbsp;
+
+<font size=-1><font color=ffffff>
+
+<!--PhoneNumber-->
+
+
+
+</td>
+
+
+
+<td>
+
+<CENTER>
+
+<!-- Font stuff -->
+
+<font color=ffffff>
+
+<!--EmailAddress-->
+
+<!--EmailImage-->
+
+</center>
+
+</td>
+
+
+
+
+
+
+
+</td>
+
+<td width=320 ALIGN="RIGHT" VALIGN="BOTTOM">
+
+
+
+<!-- Font stuff --><font color=ffffff>
+
+<form action="https://maps.google.com/maps" method="get" target="_blank">
+
+<p><BR><label for="mapsUsSaddr">Get Directions to Our Business
+
+</label>
+
+<input type="text" class="text" name="saddr" id="mapsUsSaddr" value="" size="20" />
+
+<input type="submit" class="submit" value="Map It" />
+
+<input type="hidden" name="daddr" value="<!--Address--> " />
+
+<input type="hidden" name="hl" value="en" /></p>
+
+</form></font>
+
+
+
+
+
+
+
+</td></tr></table>
+<center>
+<p><font color=000000>Copyright © %%BizName%%. This website is under a blanket<a href="https://www.surflocalmedia.com/terms.html"> <font color=000000> Privacy
+Policy</a> <font color=	#000000>with surflocalmedia.com. &nbsp;&nbsp;<a href="https://www.surflocalmedia.com/cgi-bin/surflocal/Edit.cgi?%%CityState%%&%%BizName%%"><img SRC="https://www.surflocalmedia.com/images/Orbutn.gif" NOSAVE BORDER=0 height=13 width=13></a><font size=-1><a href="https://www.surflocalmedia.com/%%CityState%%/"><font color=000000>  &nbsp;&nbsp;Back to %%CityState%% Home&nbsp;</a></font>
+
+<BR><BR>
+</body>
+</html>

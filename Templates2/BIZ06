@@ -1,0 +1,401 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Edit Pad">
+   <meta name="Author" content="Surflocal. Ad Creation Suite at www.surflocal.net">
+   <meta http-equiv="Page-Exit" content="RevealTrans (Duration=2, Transition=23)">
+   <meta name="Robots" content="forward,all">
+   <meta name="revisit after" content="every 3 days">
+   <meta name="distribution" content="global">
+   <meta name="Description" content="<!--DescriptionTag-->">
+   <meta name="Keywords" content="<!--Keywords-->">
+   <title><!--TitleTag--></title>
+</head>
+<script type="text/javascript">
+
+/***********************************************
+* Image w/ description tooltip- By Dynamic Web Coding (www.dyn-web.com)
+* Copyright 2002-2007 by Sharon Paine
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+/* IMPORTANT: Put script after tooltip div or 
+	 put tooltip div just before </BODY>. */
+
+var dom = (document.getElementById) ? true : false;
+var ns5 = (!document.all && dom || window.opera) ? true: false;
+var ie5 = ((navigator.userAgent.indexOf("MSIE")>-1) && dom) ? true : false;
+var ie4 = (document.all && !dom) ? true : false;
+var nodyn = (!ns5 && !ie4 && !ie5 && !dom) ? true : false;
+
+var origWidth, origHeight;
+
+// avoid error of passing event object in older browsers
+if (nodyn) { event = "nope" }
+
+///////////////////////  CUSTOMIZE HERE   ////////////////////
+// settings for tooltip 
+// Do you want tip to move when mouse moves over link?
+var tipFollowMouse= true;	
+// Be sure to set tipWidth wide enough for widest image
+var tipWidth= 160;
+var offX= 20;	// how far from mouse to show tip
+var offY= 12; 
+var tipFontFamily= "<!-- Font stuff -->";
+var tipFontSize= "8pt";
+// set default text color and background color for tooltip here
+// individual tooltips can have their own (set in messages arrays)
+// but don't have to
+var tipFontColor= "#000000";
+var tipBgColor= "#DDECFF"; 
+var tipBorderColor= "#000080";
+var tipBorderWidth= 3;
+var tipBorderStyle= "ridge";
+var tipPadding= 4;
+
+// tooltip content goes here (image, description, optional bgColor, optional textcolor)
+var messages = new Array();
+// multi-dimensional arrays containing: 
+// image and text for tooltip
+// optional: bgColor and color to be sent to tooltip
+messages[0] = new Array('http://www.surflocal.net/images/send-page.jpg','FILE-SEND-PAGE BY EMAIL',"#FFFFFF","#800000");
+
+
+////////////////////  END OF CUSTOMIZATION AREA  ///////////////////
+
+// preload images that are to appear in tooltip
+// from arrays above
+if (document.images) {
+	var theImgs = new Array();
+	for (var i=0; i<messages.length; i++) {
+  	theImgs[i] = new Image();
+		theImgs[i].src = messages[i][0];
+  }
+}
+
+// to layout image and text, 2-row table, image centered in top cell
+// these go in var tip in doTooltip function
+// startStr goes before image, midStr goes between image and text
+var startStr = '<table width="' + tipWidth + '"><tr><td align="center" width="100%"><img src="';
+var midStr = '" border="0"></td></tr><tr><td valign="top">';
+var endStr = '</td></tr></table>';
+
+////////////////////////////////////////////////////////////
+//  initTip	- initialization for tooltip.
+//		Global variables for tooltip. 
+//		Set styles
+//		Set up mousemove capture if tipFollowMouse set true.
+////////////////////////////////////////////////////////////
+var tooltip, tipcss;
+function initTip() {
+	if (nodyn) return;
+	tooltip = (ie4)? document.all['tipDiv']: (ie5||ns5)? document.getElementById('tipDiv'): null;
+	tipcss = tooltip.style;
+	if (ie4||ie5||ns5) {	// ns4 would lose all this on rewrites
+		tipcss.width = tipWidth+"px";
+		tipcss.fontFamily = tipFontFamily;
+		tipcss.fontSize = tipFontSize;
+		tipcss.color = tipFontColor;
+		tipcss.backgroundColor = tipBgColor;
+		tipcss.borderColor = tipBorderColor;
+		tipcss.borderWidth = tipBorderWidth+"px";
+		tipcss.padding = tipPadding+"px";
+		tipcss.borderStyle = tipBorderStyle;
+	}
+	if (tooltip&&tipFollowMouse) {
+		document.onmousemove = trackMouse;
+	}
+}
+
+window.onload = initTip;
+
+/////////////////////////////////////////////////
+//  doTooltip function
+//			Assembles content for tooltip and writes 
+//			it to tipDiv
+/////////////////////////////////////////////////
+var t1,t2;	// for setTimeouts
+var tipOn = false;	// check if over tooltip link
+function doTooltip(evt,num) {
+	if (!tooltip) return;
+	if (t1) clearTimeout(t1);	if (t2) clearTimeout(t2);
+	tipOn = true;
+	// set colors if included in messages array
+	if (messages[num][2])	var curBgColor = messages[num][2];
+	else curBgColor = tipBgColor;
+	if (messages[num][3])	var curFontColor = messages[num][3];
+	else curFontColor = tipFontColor;
+	if (ie4||ie5||ns5) {
+		var tip = startStr + messages[num][0] + midStr + '<span style="font-family:' + tipFontFamily + '; font-size:' + tipFontSize + '; color:' + curFontColor + ';">' + messages[num][1] + '</span>' + endStr;
+		tipcss.backgroundColor = curBgColor;
+	 	tooltip.innerHTML = tip;
+	}
+	if (!tipFollowMouse) positionTip(evt);
+	else t1=setTimeout("tipcss.visibility='visible'",100);
+}
+
+var mouseX, mouseY;
+function trackMouse(evt) {
+	standardbody=(document.compatMode=="CSS1Compat")? document.documentElement : document.body //create reference to common "body" across doctypes
+	mouseX = (ns5)? evt.pageX: window.event.clientX + standardbody.scrollLeft;
+	mouseY = (ns5)? evt.pageY: window.event.clientY + standardbody.scrollTop;
+	if (tipOn) positionTip(evt);
+}
+
+/////////////////////////////////////////////////////////////
+//  positionTip function
+//		If tipFollowMouse set false, so trackMouse function
+//		not being used, get position of mouseover event.
+//		Calculations use mouseover event position, 
+//		offset amounts and tooltip width to position
+//		tooltip within window.
+/////////////////////////////////////////////////////////////
+function positionTip(evt) {
+	if (!tipFollowMouse) {
+		standardbody=(document.compatMode=="CSS1Compat")? document.documentElement : document.body
+		mouseX = (ns5)? evt.pageX: window.event.clientX + standardbody.scrollLeft;
+		mouseY = (ns5)? evt.pageY: window.event.clientY + standardbody.scrollTop;
+	}
+	// tooltip width and height
+	var tpWd = (ie4||ie5)? tooltip.clientWidth: tooltip.offsetWidth;
+	var tpHt = (ie4||ie5)? tooltip.clientHeight: tooltip.offsetHeight;
+	// document area in view (subtract scrollbar width for ns)
+	var winWd = (ns5)? window.innerWidth-20+window.pageXOffset: standardbody.clientWidth+standardbody.scrollLeft;
+	var winHt = (ns5)? window.innerHeight-20+window.pageYOffset: standardbody.clientHeight+standardbody.scrollTop;
+	// check mouse position against tip and window dimensions
+	// and position the tooltip 
+	if ((mouseX+offX+tpWd)>winWd) 
+		tipcss.left = mouseX-(tpWd+offX)+"px";
+	else tipcss.left = mouseX+offX+"px";
+	if ((mouseY+offY+tpHt)>winHt) 
+		tipcss.top = winHt-(tpHt+offY)+"px";
+	else tipcss.top = mouseY+offY+"px";
+	if (!tipFollowMouse) t1=setTimeout("tipcss.visibility='visible'",100);
+}
+
+function hideTip() {
+	if (!tooltip) return;
+	t2=setTimeout("tipcss.visibility='hidden'",100);
+	tipOn = false;
+}
+
+document.write('<div id="tipDiv" style="position:absolute; visibility:hidden; z-index:100"></div>')
+
+</script>
+<script>
+
+// (C) 2000 www.CodeLifter.com
+// http://www.codelifter.com
+// Free for all users, but leave in this  header
+
+function printWindow(){
+   bV = parseInt(navigator.appVersion)
+   if (bV >= 4) window.print()
+}
+
+
+</script>
+<script language="javascript">
+function mailpage()
+{
+mail_str = "mailto:?subject=Check out the " + document.title;
+mail_str += "&body=I thought you might be interested in the " + document.title;
+mail_str += ". You can view it at, " + location.href; 
+location.href = mail_str;
+}
+</script>
+<body text="%%FontColor%%" bgcolor="#FFFFFF" link="000000" vlink="800000" alink="#600000" body style=" border-right: thick groove rgb(255,255,255); border-left: thick groove rgb(255,255,255); border-top: thick groove rgb(255,255,255); border-bottom: thick groove rgb(255,255,255)">
+
+<style>BODY {
+SCROLLBAR-HIGHLIGHT-COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: #000000; SCROLLBAR-ARROW-COLOR: %%FontColor%%; SCROLLBAR-TRACK-COLOR: %%FontColor%%; ; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: ffffff; BORDER-LIGHT-COLOR: #ffffff; BORDER-DARK-COLOR: #ffffff}
+
+</style>
+<style>A {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-TRANSFORM: uppercase; COLOR: %%FontColor%%; BACKGROUND-COLOR: ffffff
+}
+A:hover {
+	TEXT-DECORATION: underline overline
+}
+</style>
+
+<!-- BodyStuff -->
+
+<!-- Font stuff -->
+<center><table BORDER=1 COLS=1 WIDTH="900" borderColor=ffffff>
+<tr>
+<td>
+
+
+<center><table BORDER=0 COLS=1 WIDTH="900" BACKGROUND="/images/topper.gif" >
+<tr>
+<td><br>
+<CENTER><font size=+2>
+<!-- Font stuff -->
+<font color=ffffff>
+<!--Press01Header-->
+</center></td></tr></table>
+
+<center><table BORDER=0 COLS=1 WIDTH="100%" BACKGROUND="/images/white_table.jpg" >
+<tr>
+<td>
+
+
+<center><table BORDER=0 COLS=1 WIDTH="888" BACKGROUND="/images/solid-47.jpg" >
+<tr>
+<TD width=375>
+
+<p><font color=ffffff>
+<font size=+1>
+<!--ParagraphPress01-->
+<p><CENTER><A HREF="mailto:tpadmin@surflocal.net?subject= Contact form from %%BizName%% &body=type+your&body=Please fill out the information below.%0A %0AContact Name--%0AContact Phone--%0ABusiness Name--%0AAddress--%0AE-mail Address--%0APhone Number--%0AWeb Site Address--%0AAny Questions or Additional Info about this ad--"><font size=-1><font color="800000"></b><FONT COLOR=FFFFFF SIZE=+1><B>CONTACT US</B></a></CENTER>
+</td>
+
+<td WIDTH=500>
+<center>
+<!--ParagraphVideo-->
+</center>
+ </TD>
+
+</tr></table>
+
+<center><table BORDER=0 COLS=1 WIDTH="100%" >
+<tr>
+<td>
+<center><table BORDER=0 COLS=2 CELLSPACING=3 CELLPADDING=3 WIDTH="100%" height=300 BACKGROUND="/images/white_table.jpg" >
+<tr>
+<td width=240 height=300>
+
+<!--PageImage1-->
+<br>
+<center>
+<!-- Font stuff -->
+<font size=-1>
+<!--ParagraphTitle-->
+</center>
+<br>
+<center>
+<!--SocialLinks-->
+</center>
+
+
+</td>
+
+<td VALIGN="TOP">
+<br>
+<!-- Font stuff -->
+
+<font size=+1>
+<!--ShortInfo-->
+</b>
+</td>
+</tr>
+
+</table></center>
+<p><br>
+<center><table BORDER=0 COLS=1 WIDTH="100%" HEIGHT=600 BACKGROUND="/images/white_table.jpg" >
+<tr borderColor="#ffffff">
+<td width=50% valign=top>
+<blockquote>
+<!-- Font stuff -->
+<font size=+1>
+
+<!--LongInfoA-->
+</blockquote>
+</center>
+
+</td>
+
+<td width=50% valign=top>
+<blockquote>
+<!-- Font stuff -->
+<font size=+1>
+
+<!--LongInfoB-->
+</blockquote>
+</center>
+
+</td>
+
+
+</tr>
+</table></center>
+<P>
+<center><table BORDER=0 COLS=3 CELLPADDING=7 WIDTH="888" BACKGROUND="/images/solid-47.jpg" >
+<tr borderColor="#ffffff">
+<td width=320>
+
+
+<!-- Font stuff -->
+<font color=ffffff>
+Contact:&nbsp;
+<font color=ffffff>
+<!--BusinessName-->
+
+<br>
+
+
+<font color=ffffff>
+<!--Address-->
+<br><font color=ffffff>
+Phone:&nbsp;
+<font size=-1><font color=ffffff>
+<!--PhoneNumber-->
+
+</td>
+
+<td>
+<CENTER>
+<!-- Font stuff -->
+<font color=ffffff>
+<!--EmailAddress-->
+<!--EmailImage-->
+</center>
+</td>
+
+
+
+</td>
+<td width=320 ALIGN="RIGHT" VALIGN="BOTTOM">
+
+<!-- Font stuff --><font color=ffffff>
+<form action="http://maps.google.com/maps" method="get" target="_blank">
+<p><BR><label for="mapsUsSaddr">Get Directions to Our Business
+</label>
+<input type="text" class="text" name="saddr" id="mapsUsSaddr" value="" size="20" />
+<input type="submit" class="submit" value="Map It" />
+<input type="hidden" name="daddr" value="<!--Address--> " />
+<input type="hidden" name="hl" value="en" /></p>
+</form></font>
+
+
+
+</td></tr></table>
+
+
+
+</td>
+</tr>
+</table></center>
+
+</td>
+</tr>
+</table></center>
+
+</td>
+</tr>
+</table></center>
+</td>
+</tr>
+</table></center>
+
+<center><font size=-2><font color=ffffff>
+<p>Designed with the Surflocal Website Creator in %%CityState%%. All information on this website is used
+with permission and/or copyright of %%BizName%%. This website is under a blanket <a href="http://www.surflocal.net/terms.html"><font color=ffffff>privacy
+policy</a> <font color=ffffff>with Surflocal.Net.  Ad Creation Suite Copyright <a href="http://www.surflocal.net"><font color=ffffff>Surflocal.Net</a> 1996-Present. <a href="http://www.surflocal.net/cgi-bin/surflocal/Edit.cgi?%%CityState%%&%%BizName%%"><img SRC="http://www.surflocal.net/images/Orbutn.gif" NOSAVE BORDER=0 height=13 width=13></a><font size=-2><a href="http://www.surflocal.net/%%CityState%%/"><font color=ffffff> --Surflocal%%CityState%% Home</a></font>
+</center>
+</body>
+</html>

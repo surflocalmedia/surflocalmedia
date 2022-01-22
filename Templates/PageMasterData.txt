@@ -1,0 +1,216 @@
+CouponBusinessName|Your Business Name
+CouponImage5|<img SRC="https://www.surflocalmedia.com/images/coupon-logo.jpg">
+CouponShoppingVid|Embed from size of video 300 X 200 to 760 full with
+CouponShopping|Embed code for buy now button width 300
+CouponVideo| Embed Shopping, Video or Buy Now , size of video 300 X 200 to 760 full with
+CouponImage1|<img SRC="https://www.surflocalmedia.com/images/coupon1_image.jpg">
+CouponImage2|<img SRC="https://www.surflocalmedia.com/images/coupon_image2.jpg">
+CouponImage3|<img SRC="https://www.surflocalmedia.com/images/coupon_example_a.jpg">
+CouponImage4|<img src="https://www.surflocalmedia.com/images/coupon-banner.jpg">
+CouponOfferText|"Buy One Get One Free"
+GiftValue|$30
+BusinessLink|www.surflocalmedia.com
+CouponBusinessLinkText|Our Website
+CouponBusinessName2|Business Name Here
+CouponEmailAddress|agent@surflocalmedia.com 
+CouponEmailText|E-mail Us Now
+CouponAddress|Type your street address, city, state, zip here
+CouponPhoneNumber|Phone: (888) 888-8888
+CouponGoodThru|Date Expires
+CouponGoodThru2|Date Expires
+TitleTag|Example of Marketing Ad on surflocalmedia.com
+DescriptionTag|searchable phrases that describe your ad in 30 words or less
+Keywords|Keywords, separated by commas, maximum of 20 keywords
+Category|Text found under the ad that describes the offer
+BarCodeImage|<img src="https://www.surflocalmedia.com/images/barcode.jpg">
+CouponType|$30 Gift Certificate
+Terms|Disclainers or Terms and Conditions of your offer
+
+Paragraph25|Custom Space <img SRC="https://www.surflocalmedia.com/images/sample_11.jpg" width=400 height=100>
+BusinessName|Your Business Name
+PhoneNumber|(444) 444-4444
+Address|Type your street address, city, state, zip here
+TitleTag|Example of Marketing Ad on surflocalmedia.com
+DescriptionTag|searchable phrases that describe your ad.
+Keywords|Keywords, separated by commas
+EmailAddress|your@e-mail.address (will become clickable link)
+EmailText|Email us Now
+EmailImage|<img SRC="https://www.surflocalmedia.com/images/email20.gif" BORDER=0>
+EmailImage2|<img src="https://www.surflocalmedia.com/images/EmailImage2.jpg" BORDER=0>
+Category|Text found under the marketing ad that describes the offer
+UserLinksC|<a href="https://www.surflocalmedia.com/">Our Special</a>
+PageImagebiz|<img SRC="https://www.surflocalmedia.com/images/press01.jpg" width=300 height=262>
+
+PageImageBiz02|<img SRC="https://www.surflocalmedia.com/images/PageImagebiz02.jpg" width=825 height=221>
+
+ParagraphADV07|Create Paragraph Here
+
+ParagraphADV07A|Create Paragraph Here
+
+PageImage1|<img SRC="https://www.surflocalmedia.com/images/sample_1.jpg" width=200 height=200>
+
+PageImage2|<img SRC="https://www.surflocalmedia.com/images/sample_2.jpg" width=200 height=200>
+
+PageImage3|<img SRC="https://www.surflocalmedia.com/images/sample_3.jpg" width=200 height=200>
+
+PageImage4|<img SRC="https://www.surflocalmedia.com/images/sample_4.jpg" width=200 height=200>
+
+PageImage5|<img SRC="https://www.surflocalmedia.com/images/sample_5.jpg" width=200 height=200>
+
+PageImage6|<img SRC="https://www.surflocalmedia.com/images/sample_6.jpg" width=200 height=200>
+
+PageImage7|<img SRC="https://www.surflocalmedia.com/images/sample_7.jpg" width=200 height=200>
+
+PageImage8|<img SRC="https://www.surflocalmedia.com/images/sample_8.jpg" width=200 height=200>
+
+PageImage9|<img SRC="https://www.surflocalmedia.com/images/sample_9.jpg" width=200 height=200>
+
+PageImagebiz01|<img SRC="https://www.surflocalmedia.com/images/PageImagebiz01.jpg" width=500 height=300>
+
+PageImagebiz03|<img SRC="https://www.surflocalmedia.com/images/fc.jpg" width=735>
+PressHeader|Header for Press Flyer-Photo Layout
+Press01Header|Heading for Press Release Top 
+ParagraphPress01|Description for Press Release Top Left
+ParagraphPress02|Description for Press Release Top Right
+LongInfoA|Press Release 06 Left Collumn
+LongInfoB|Press Release 06 Right Collumn
+ParagraphV|Summary paragraph beside the headshot
+ParagraphVideo|Place source code for Video
+Paragraph1A|Business Name
+Paragraph1B|Business Name Small
+ParagraphTitle|Name and Title
+Paragraph1F|<a href="/TestTownTX/">First City</a> , <a href="/TestTownTX/">Second City</a> , <a href="/TestTownTX/">Third City</a> , <a href="/TestTownTX/">Fourth City</a> , <a href="/TestTownTX/">Fifth City</a>
+Paragraph2F|Simply list all 4 phrases here with commas in between.
+Paragraph1FR|<a href="https://www.surflocalmedia.com"><img SRC="https://www.surflocalmedia.com/images/frame-but1.jpg" border=0></a>
+ParagraphCITYSTATE|CIty and State for map
+ParagraphADVSL|Small Slogan Here
+ParagraphADVH01|Create Title/Header Here
+ParagraphADVH02|Create Title/Header Here
+ParagraphADVH03|Create Title/Header Here
+ParagraphADVH03a|Create Title/Header Here
+ParagraphADV01|Create Paragraph Here
+ParagraphADV02|Create Paragraph Here
+ParagraphADV03|Create Paragraph Here
+ParagraphADV03a|Create Paragraph Here
+
+PageImageA01|<img SRC="https://www.surflocalmedia.com/images/white_table.jpg" width=146 height=98>
+Paragraph15f|Company Summary Paragraph
+Paragraph15g|<a href="/CityTX/">City, State</a>
+Paragraph15|<center><IFRAME width="100%" height="800" frameborder="yes" scrolling="auto" name="iframe" SRC="https://www.surflocalmedia.com/"></IFRAME></center>
+Paragraph3A|Above all, try to build your site as if someone who has never been on the internet is your main visitor.  Build from a visitor perspective.  Make it simple, professional and effective. 
+Paragraph4|Your Welcome Headline Goes Here...
+Paragraph1|This will be your copy
+Paragraph5|Create an Interesting Headline 1
+Paragraph2|Present the issues right away.  Your visitor wants to know immediately what they can find on your site. Keep that in mind when designing your site.   Present the important issues of your site in this paragraph.
+Paragraph6|Create an Interesting Headline 2
+Paragraph3|Above all, try to build your site as if someone who has never been on the internet is your main visitor.  Build from a visitor perspective.  Make it simple, professional and effective. 
+Paragraph7|Create a title for this photo
+Paragraph8|Create a title for this photo
+Paragraph9|Create a title for this photo
+Paragraph10|Create a title for this photo
+Paragraph11|Create a title for this photo
+Paragraph12|Create a title for this photo
+Paragraph13|Additional text for your first story
+Paragraph14|Additional text for your second story
+Paragraph4a|Photo 1 text goes here
+Paragraph5a|Photo 2 text goes here
+Paragraph6a|Photo 3 text goes here
+Paragraph7a|Photo 4 text goes here
+Paragraph8a|Photo 5 text goes here
+Paragraph9a|Photo 6 text goes here
+Paragraph10a|Photo 7 text goes here
+Paragraph11a|Photo 8 text goes here
+Paragraph12a|Photo 9 text goes here
+Paragraph13a|Photo 10 text goes here
+Paragraph14a|Photo 11 text goes here
+Paragraph15a|Photo 12 text goes here
+Paragraph20|Headline for the 1st story | <a href="https://www.yourlinkpagehere.html" target="new">Read More</a> |
+Paragraph21|Headline for the 2nd story | <a href="https://www.yourlinkpagehere.html" target="new">Read More</a> |
+Paragraph22|Headline for the 3rd story  | <a href="https://www.yourlinkpagehere.html" target="new">Read More</a> |
+Paragraph23|Headline for the 4th story  | <a href="https://www.yourlinkpagehere.html" target="new">Read More</a> |
+Paragraph24|Headline for the 5th story  | <a href="https://www.yourlinkpagehere.html" target="new">Read More</a> |
+Paragraph26|Place Your News Banner Here <img SRC="https://www.surflocalmedia.com/images/sample_11.jpg" width=400 height=100>
+Paragraph30|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph31|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph32|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph33|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph34|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph35|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph36|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph37|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph38|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph39|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph40|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>surflocalmedia.com</a>
+Paragraph42|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph43|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph44|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph45|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph46|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph47|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph48|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph49|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph50|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_12.jpg" 
+border=0 height=90 width=120><br>Your Sponsor Name Here</a>
+Paragraph51|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph52|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph53|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph54|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph55|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph56|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph57|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph58|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph59|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph60|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph61|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>surflocalmedia.com</a>
+Paragraph62|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph63|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph64|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph65|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph66|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph67|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph68|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph69|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a>
+Paragraph70|<a href="https://www.surflocalmedia.com/" target="new"><img SRC="https://www.surflocalmedia.com/images/sample_store.jpg" border=0 height=90 width=120><br>Your Text Here</a> 
+PageImageADV07|<img SRC="https://www.surflocalmedia.com/images/pagecreator/ADV07.jpg" width=265 height=265>
+PageImageADV07A|<img SRC="https://www.surflocalmedia.com/images/pagecreator/ADV07A.jpg" width=265 height=265>
+
+PageImage10|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+PageImage1a|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+PageImage2a|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+PageImage3a|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+PageImage4a|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+PageImage5a|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+PageImage6a|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+PageImage7a|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+PageImage8a|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+PageImage9a|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+PageImage10a|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+PageImage11a|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+PageImage12a|<img SRC="https://www.surflocalmedia.com/images/man.jpg" width=200 height=200>
+
+PageImageNV0|<img SRC="https://www.surflocalmedia.com/images/nv1.jpg" width=75 height=75>
+PageImageNV1|<img SRC="https://www.surflocalmedia.com/images/nv1.jpg" width=75 height=75>
+PageImageNV2|<img SRC="https://www.surflocalmedia.com/images/nv1.jpg" width=75 height=75>
+PageImageNV3|<img SRC="https://www.surflocalmedia.com/images/nv1.jpg" width=75 height=75>
+PageImageNV4|<img SRC="https://www.surflocalmedia.com/images/nv1.jpg" width=75 height=75>
+PageImageNV5|<img SRC="https://www.surflocalmedia.com/images/nv1.jpg" width=75 height=75>
+PageImageNV6|<img SRC="https://www.surflocalmedia.com/images/nv1.jpg" width=75 height=75>
+PageImageNV7|<img SRC="https://www.surflocalmedia.com/images/nv1.jpg" width=75 height=75>
+PageImageNV8|<img SRC="https://www.surflocalmedia.com/images/nv1.jpg" width=75 height=75>
+PageImageNV9|<img SRC="https://www.surflocalmedia.com/images/nv1.jpg" width=75 height=75>
+PageImageNV10|<img SRC="https://www.surflocalmedia.com/images/nv1.jpg" width=75 height=75>
+PageImageRE01|<img src="/images/sample-RE.jpg" width=200 height=200>
+PageImageRE02|<img src="/images/sample-RE.jpg" width=200 height=200>
+PageImageRE03|<img src="/images/sample-RE.jpg" width=200 height=200>
+PageImageRE04|<img src="/images/sample-RE.jpg" width=200 height=200>
+PageImageRE05|<img src="/images/sample-RE.jpg" width=200 height=200>
+PageImageRE06|<img src="/images/sample-RE.jpg" width=200 height=200>
+PageImageHead01|<img src="/images/sample-head.jpg" width=300 height=240>
+Paragraph1RE|First Bullet List of Property Attributes
+Paragraph2RE|Second Bullet List of Property Attributes
+PageImageauto01|<img src="/images/auto01.jpg" width=165 height=86>
+BarCodeImage|<img src="https://www.surflocalmedia.com/images/barcode.jpg">
+CouponType|$30 Gift Certificate
+Terms|Disclainers or Terms and Conditions of your offer
+CouponGoodThru2|Date Expires
+CouponBusinessName2|Business Name Here

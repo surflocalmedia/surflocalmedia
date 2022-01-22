@@ -1,0 +1,163 @@
+
+<!doctype html>
+  <head>
+   <meta charset="windows-1252">
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <meta https-equiv="content-language" content="en-us">
+   <meta https-equiv="Content-Type" content="text/html; charset=windows-1252"/>
+   <meta https-equiv="PICS-Label" content='(PICS-1.1 "https://www.classify.org/safesurf/" L gen true for "https://www.surflocal.net/index.html" r (SS~~000 1 SS~~000 1))' />
+   <meta name="Author" content="  https://www.surflocal.net/index.html  agent@surflocal.net"/>
+   <meta name="title" content="USA Promote Local Business - Community Marketing Program" />
+   <meta name="GENERATOR" content="Edit Pad"/>
+   <meta name="Robots" content="index,follow"/>
+   <meta name="revisit after" content="every 3 days"/>
+   <meta name="distribution" content="global"/>
+   <meta name="google-site-verification" content="Qo2396bWSEuJHigKjOrBGd3wsA1a6x0RvQafE2iB3_Q" />
+   <meta name="msvalidate.01" content="36A9DACFE5198BDA18F3E6EBAC58C1A2" />
+   <meta https-equiv="Cache-Control" content="no-store" />
+   <link rel="canonical" href="https://www.surflocal.net/" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel=stylesheet" href="CSS/custom.css">
+    <title>Webpage Creation Form - Provides The Information To Market Local Products And Services In Your Community </title>
+   <meta name="description" content=" Information To Build And Market Your New Webpage To Promote Yourinsider Deals And Local Specials,  Marketing Ad  And  Gift Certificate, Coupons To Promote Local Businesses "/>
+   <meta name="keywords" content="USA, Community, Advertising, Marketing, Ad Builder, Ad Creator, Online Ad Creator, Multi, Media, Ad, Creation, Suite, Local, Search, Engine, Placement, local, directional, marketing "/> 
+  </head>
+  <body>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<h3>Website Creation Form</h3>
+
+<div class="container">
+  <form action="/office/mailer-intake.php">
+
+<?php
+$target_dir = "uploads/";
+$target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
+$uploadOk = 1;
+$imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
+// Check if image file is a actual image or fake image
+if(isset($_POST["submit"])) {
+    $check = getimagesize($_FILES["fileToUpload"]["tmp_name"]);
+    if($check !== false) {
+        echo "File is an image - " . $check["mime"] . ".";
+        $uploadOk = 1;
+    } else {
+        echo "File is not an image.";
+        $uploadOk = 0;
+    }
+}
+// Check if file already exists
+if (file_exists($target_file)) {
+    echo "Sorry, file already exists.";
+    $uploadOk = 0;
+}
+// Check file size
+if ($_FILES["fileToUpload"]["size"] > 500000) {
+    echo "Sorry, your file is too large.";
+    $uploadOk = 0;
+}
+// Allow certain file formats
+if($imageFileType != "jpg" && $imageFileType != "png" && $imageFileType != "jpeg"
+&& $imageFileType != "gif" ) {
+    echo "Sorry, only JPG, JPEG, PNG & GIF files are allowed.";
+    $uploadOk = 0;
+}
+// Check if $uploadOk is set to 0 by an error
+if ($uploadOk == 0) {
+    echo "Sorry, your file was not uploaded.";
+// if everything is ok, try to upload file
+} else {
+    if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) {
+        echo "The file ". basename( $_FILES["fileToUpload"]["name"]). " has been uploaded.";
+    } else {
+        echo "Sorry, there was an error uploading your file.";
+    }
+}
+?>
+
+</body>
+</html>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+
+
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

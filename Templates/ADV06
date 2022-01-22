@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN">
+<html>
+   <head>
+   <meta https-equiv="content-language" content="en-us">
+   <meta https-equiv="Content-Type" content="text/html; charset=windows-1252">
+   <meta name="GENERATOR" content="ADV06"/>
+   <meta name="Robots" content="index,follow"/>
+   <meta name="revisit after" content="every 3 days"/>
+   <meta name="distribution" content="global"/>
+   <meta name="google-site-verification" content="Qo2396bWSEuJHigKjOrBGd3wsA1a6x0RvQafE2iB3_Q" />
+   <meta name="msvalidate.01" content="36A9DACFE5198BDA18F3E6EBAC58C1A2" />
+   <meta name="Description" content="<!--DescriptionTag-->"/>
+   <meta name="Keywords" content="<!--Keywords-->  "/>
+   <title><!--TitleTag--></title> 
+   </head>
+<body text="%%FontColor%%" bgcolor="#ffffff" link="%%FontColor%%" vlink="%%FontColor%%" alink="#600000" body style=" border-right: thick groove rgb(255,255,255); border-left: thick groove rgb(255,255,255); border-top: thick groove rgb(255,255,255); border-bottom: thick groove rgb(255,255,255)">
+<style>BODY {
+SCROLLBAR-HIGHLIGHT-COLOR: #ffd201; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #ffd098; SCROLLBAR-TRACK-COLOR: %%FontColor%%; ; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: %%FontColor%%; BORDER-LIGHT-COLOR: #ffd098; BORDER-DARK-COLOR: #ffd098}
+
+</style>
+
+<center><table BORDER=0 COLS=1 WIDTH="75%" BACKGROUND=https://www.surflocalmedia.com/images/white_table.jpg >>
+<tr borderColor="%%FontColor%%">
+<td>
+<center>
+<!-- BodyStuff -->
+<!-- Font stuff -->
+<Font size=-1>>>
+
+<!-- ProductLinks--> 
+<!--UserLinks-->
+>>
+<center>
+<table BORDER=5 COLS=1 WIDTH="80%" BACKGROUND=%%BackgroundImage%% bordercolor="#ffffff">
+<tr>
+<td valign=top>
+<br>
+<center><table BORDER COLS=1 WIDTH="85%" BACKGROUND=https://www.surflocalmedia.com/images/white_table.jpg >
+
+<tr>
+<td valign=top>
+<center>
+<!--PageImagebiz02--> 
+
+<center>
+
+<b>
+<!-- Font stuff -->
+<font size=+2>
+<!--BusinessName-->
+</b>
+
+</center></font>
+<br>
+
+
+<center><table BORDER=0 COLS=2 CELLSPACING=3 CELLPADDING=3 WIDTH="90%"  BACKGROUND="/images/white_table.jpg" >
+<tr>
+<td>
+
+
+<!--ParagraphVideo-->
+<p>
+</blockquote>
+<P>
+</td>
+
+<td width=50% >
+
+<blockquote>
+<br>
+<!-- Font stuff -->
+<font size=+1><!--ShortInfo-->
+
+</td>
+
+
+</tr>
+
+</table></center>
+
+<p>
+<center><table BORDER=0 COLS=2 CELLSPACING=3 CELLPADDING=3 WIDTH="100%"  BACKGROUND="/images/white_table.jpg" >
+<tr>
+
+
+<td>
+
+<blockquote>
+<!-- Font stuff -->
+<font size=+1><!--LongInfo-->
+
+</td>
+
+</blockquote>
+<P>
+
+</tr>
+
+</table></center>
+<br><br>
+<center><table BORDER=0 COLS=3 WIDTH="80%" BACKGROUND="/images/white_table.jpg" >
+<tr borderColor="#ffffff">
+<td width=320>
+<blockquote>
+
+<!-- Font stuff -->
+<font size=-1>Contact:&nbsp;
+
+<!--Paragraph1B-->
+
+<br>
+
+
+<font size=-1>
+<!--Address-->
+<br>
+Phone:&nbsp;
+<font size=-1>
+<!--PhoneNumber-->
+<br>
+
+</td>
+
+<td>
+<CENTER>
+<!--EmailAddress-->
+<!--EmailImage-->
+</center>
+</td>
+
+
+</blockquote>
+
+<td width=320 ALIGN="RIGHT" VALIGN="BOTTOM">
+<font size=-1><b>
+<form action="https://maps.google.com/maps" method="get" target="_blank">
+<!-- Font stuff -->
+<p><BR><label for="mapsUsSaddr">Get Directions to Our Business
+<br>Type Your Complete Starting Address</label>
+<input type="text" class="text" name="saddr" id="mapsUsSaddr" value="" size="20" />
+<input type="submit" class="submit" value="Map It" />
+<input type="hidden" name="daddr" value="<!--Address--> " />
+<input type="hidden" name="hl" value="en" /></p>
+</form></font>
+<p>
+</td></tr></table>
+
+
+
+
+</td>
+
+</td>
+</tr>
+</table></center>
+<p><p>
+</td>
+</tr>
+<p>
+</table></center>
+<br>
+<center>
+<p><font color=000000>Copyright © %%BizName%%. This website is under a blanket <a href="https://www.surflocalmedia.com/terms.html"> <font color=000000> Privacy
+Policy</a> <font color=	#000000> with surflocalmedia.com. &nbsp;&nbsp;<a href="https://www.surflocalmedia.com/cgi-bin/surflocal/Edit.cgi?%%CityState%%&%%BizName%%"><img SRC="https://www.surflocalmedia.com/images/Orbutn.gif" NOSAVE BORDER=0 height=13 width=13></a><font size=-1><a href="https://www.surflocalmedia.com/%%CityState%%/"><font color=000000>  &nbsp;&nbsp;   Back to %%CityState%% Home&nbsp;</a></font>
+
+<BR><BR>
+</body>
+</html>

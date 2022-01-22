@@ -1,0 +1,45 @@
+<HEAD>
+<link href="/styleC.css" rel="stylesheet" type="text/css" />
+</head>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- Begin
+
+
+function AddValues(form1,form2) 
+{
+	form2.Cities.value = form2.Cities.value + "," + form1.Cities.value;
+}
+//  End -->
+</script>
+</HEAD>
+<h1>Select the list of cities from the form on the left</h1>
+You must select each city ONE AT A TIME. Click ONCE on the city, then
+click the button that says ">>"
+<Br>
+When you're done, click the "Save these cities" button below.
+<p>
+<form method="POST" name=leftForm>
+<table width=30%>
+<tr>
+<td width="85">Available</td>
+<td>&nbsp;</td>
+<td width="85">Selected</td>
+</tr>
+<tr>
+<td width="85">
+
+<!--%%ListOfCities%%-->
+
+</select>
+</td>
+<td width="85" align="center">
+<input type="button" value=" >> " onClick="javascript:AddValues(leftForm,rightForm)">
+</td>
+</form><form action=MultipleUpload.cgi method=POST name=rightForm>
+<input type=hidden name=action value=SetCityArray>
+<td width="85">
+<textarea name=Cities rows=20 cols=60></textarea>
+<br>
+<input type=submit value="Save these cities"></form>

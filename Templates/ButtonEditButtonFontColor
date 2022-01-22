@@ -1,0 +1,306 @@
+
+<center><table BORDER=1 WIDTH="600" class="table" background="https://www.surflocalmedia.com/images/white_table.jpg" >
+<tr>
+<td WIDTH="2%"><input type="radio" name="FontColor"
+
+            value="#FFFFFF"></td>
+
+<td WIDTH="7%" BGCOLOR="#FFFFFF">&nbsp;</font></td>
+
+<td WIDTH="2%"><input type="radio" name="FontColor"
+
+            value="#CCFFFF"></td>
+
+<td WIDTH="7%" BGCOLOR="#CCFFFF">&nbsp;</font></td>
+
+<td WIDTH="2%"><input type="radio" name="FontColor"
+
+            value="#CCCCFF"></td>
+
+<td WIDTH="7%" BGCOLOR="#CCCCFF">&nbsp;</font></td>
+
+<td WIDTH="2%"><input type="radio" name="FontColor"
+
+            value="#003399"></td>
+
+<td WIDTH="7%" BGCOLOR="#003399">&nbsp;</font></td>
+
+<td WIDTH="2%"><input type="radio" name="FontColor"
+
+            value="#FFCCFF"></td>
+
+<td WIDTH="7%" BGCOLOR="#FFCCFF">&nbsp;</font></td>
+
+<td WIDTH="2%"><input type="radio" name="FontColor"
+
+            value="#FF0099"></td>
+
+<td WIDTH="7%" BGCOLOR="#FF0099">&nbsp;</font></td>
+</tr>
+
+<tr>
+<td WIDTH="7"><input type="radio" name="FontColor"
+
+            value="#CCCCCC"></td>
+
+<td BGCOLOR="#CCCCCC">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#66FFFF"></td>
+
+<td BGCOLOR="#66FFFF">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#6699FF"></td>
+
+<td BGCOLOR="#6699FF">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#9966FF"></td>
+
+<td BGCOLOR="#9966FF">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#FF66FF"></td>
+
+<td BGCOLOR="#FF66FF">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#CC0099"></td>
+
+<td BGCOLOR="#CC0099">&nbsp;</font></td>
+</tr>
+
+<tr>
+<td WIDTH="7"><input type="radio" name="FontColor"
+
+            value="#999999"></td>
+
+<td BGCOLOR="#999999">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#00FFFF"></td>
+
+<td BGCOLOR="#00FFFF">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#0099FF"></td>
+
+<td BGCOLOR="#0099FF">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#9900FF"></td>
+
+<td BGCOLOR="#9900FF">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#FF00FF"></td>
+
+<td BGCOLOR="#FF00FF">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#FF6666"></td>
+
+<td BGCOLOR="#FF6666">&nbsp;</font></td>
+</tr>
+
+<tr>
+<td WIDTH="7"><input type="radio" name="FontColor"
+
+            value="#666666"></td>
+
+<td BGCOLOR="#666666">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#009999"></td>
+
+<td BGCOLOR="#009999">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#6666FF"></td>
+
+<td BGCOLOR="#6666FF">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#990099"></td>
+
+<td BGCOLOR="#990099">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#FFCCCC"></td>
+
+<td BGCOLOR="#FFCCCC">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#FF3333"></td>
+
+<td BGCOLOR="#FF3333">&nbsp;</font></td>
+</tr>
+
+<tr>
+<td WIDTH="7"><input type="radio" name="FontColor"
+
+            value="#000000"></td>
+
+<td BGCOLOR="#000000">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#003333"></td>
+
+<td BGCOLOR="#003333">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#0000FF"></td>
+
+<td BGCOLOR="#0000FF">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#330033"></td>
+
+<td BGCOLOR="#330033">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#FF6699"></td>
+
+<td BGCOLOR="#FF6699">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#FF0000"></td>
+
+<td BGCOLOR="#FF0000">&nbsp;</font></td>
+</tr>
+
+<tr>
+<td WIDTH="7"><input type="radio" name="FontColor"
+
+            value="#990000"></td>
+
+<td BGCOLOR="#990000">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#330000"></td>
+
+<td BGCOLOR="#330000">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#FF6600"></td>
+
+<td BGCOLOR="#FF6600">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#996600"></td>
+
+<td BGCOLOR="#996600">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#333300"></td>
+
+<td BGCOLOR="#333300">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#FF9966"></td>
+
+<td BGCOLOR="#FF9966">&nbsp;</font></td>
+</tr>
+
+<tr>
+<td WIDTH="7"><input type="radio" name="FontColor"
+
+            value="#FF9900"></td>
+
+<td BGCOLOR="#FF9900">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#999900"></td>
+
+<td BGCOLOR="#999900">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#FFFF66"></td>
+
+<td BGCOLOR="#FFFF66">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#FFFF00"></td>
+
+<td BGCOLOR="#FFFF00">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#99FF66"></td>
+
+<td BGCOLOR="#99FF66">&nbsp;</font></td>
+
+<td><input type="radio" name="fontbutton"
+
+            value="#99FF00"></td>
+
+<td BGCOLOR="#99FF00">&nbsp;</font></td>
+</tr>
+
+<tr>
+<td WIDTH="7"><input type="radio" name="FontColor"
+
+            value="#ffd098"></td>
+
+<td BGCOLOR="#FFD098">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#66FF66"></td>
+
+<td BGCOLOR="#66FF66">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#00FF00"></td>
+
+<td BGCOLOR="#00FF00">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#339900"></td>
+
+<td BGCOLOR="#339900">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#00CC66"></td>
+
+<td BGCOLOR="#00CC66">&nbsp;</font></td>
+
+<td><input type="radio" name="FontColor"
+
+            value="#006666"></td>
+
+<td BGCOLOR="#006666">&nbsp;</font></td>
+</tr>
+</table></center>

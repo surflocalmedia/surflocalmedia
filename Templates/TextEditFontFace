@@ -1,0 +1,176 @@
+
+<center><table BORDER COLS=4 WIDTH="735" BGCOLOR="#FFFFFF" BACKGROUND="http://www.surflocal.net/images/white_table.jpg"> 
+<tr>
+<td>
+<center><input TYPE="radio" VALUE="Aldine721 BT" Name="TextAdFont">
+<br><font face="Aldine721 BT"><font size=+1>Aldine</font></font></center>
+</td>
+
+
+<td>
+<center><input TYPE="radio" VALUE="Arial" Name="TextAdFont">
+<br><font face="Arial"><font size=+1>Arial</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Arial Black" Name="TextAdFont">
+<br><font face="Arial Black"><font size=+1>Arial Black</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Arial Narrow" Name="TextAdFont">
+<br><font face="Arial Narrow"><font size=+1>Arial Narrow</font></font></center>
+</td>
+
+<tr>
+<td>
+<center><input TYPE="radio" VALUE="Book Antiqua" Name="TextAdFont">
+<br><font face="Book Antiqua"><font size=+1>Book Antiqua</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Century Gothic" Name="TextAdFont">
+<br><font face="Century Gothic"><font size=+1>Century Gothic</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Comic Sans MS" Name="TextAdFont">
+<br><font face="Comic Sans MS"><font size=+1>Comic Sans</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Constantia" Name="TextAdFont">
+<br><font face="Constantia"><font size=+1>Constantia</font></font></center>
+</td>
+
+<tr>
+<td>
+<center><input TYPE="radio" VALUE="Constantia Bold" Name="TextAdFont">
+<br><font face="Constantia Bold"><font size=+1>Constantia Bold</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Copperplate Gothic Bold" Name="TextAdFont">
+<br><font face="Copperplate Gothic Bold"><font size=+1>Copperplate Gothic</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Courier New, Courier" Name="TextAdFont">
+<br><font face="Courier New,Courier"><font size=+1>Courier New</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Courier New Bold, Courier Bold" Name="TextAdFont">
+<br><font face="Courier New Bold, Courier Bold"><font size=+1>Courier Bold</font></font></center>
+</td>
+
+<tr>
+<td>
+<center><input TYPE="radio" VALUE="Estrangelo Edessa" Name="TextAdFont">
+<br><font face="Estrangelo Edessa"><font size=+1>Estrangelo Edessa</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Georgia" Name="TextAdFont">
+<br><font face="Georgia"><font size=+1>Georgia</font></font></center>
+</td>
+
+
+<td>
+<center><input TYPE="radio" VALUE="Impact" Name="TextAdFont">
+<br><font face="Impact"><font size=+1>Impact</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Lithos Pro" Name="TextAdFont">
+<br><font face="Lithos Pro"><font size=+1>Lithos Pro</font></font></center>
+</td>
+
+<tr>
+<td>
+<center><input TYPE="radio" VALUE="Lithos Pro Bold" Name="TextAdFont">
+<br><font face="Lithos Pro Bold"><font size=+1>Lithos Pro Bold</font></font></center>
+</td>
+
+
+<td>
+<center><input TYPE="radio" VALUE="Lucida Console" Name="TextAdFont">
+<br><font face="Lucida Console"><font size=+1>Lucida Console</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Lucida Handwriting" Name="TextAdFont">
+<br><font face="Lucida Handwriting"><font size=+1>Lucida Handwriting</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Park Avenue BT" Name="TextAdFont">
+<br><font face="Park Avenue BT"><font size=+1>Park Avenue BT</font></font></center>
+</td>
+
+<tr>
+<td>
+<center><input TYPE="radio" VALUE="Palatino Linotype" Name="TextAdFont">
+<br><font face="Palatino Linotype"><font size=+1>Palatino Linotype</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Palatino Linotype Bold" Name="TextAdFont">
+<br><font face="Palatino Linotype Bold"><font size=+1>Palatino Linotype Bold</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Tahoma" Name="TextAdFont">
+<br><font face="Tahoma"><font size=+1>Tahoma</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Tempus Sans ITC" Name="TextAdFont">
+<br><b><font face="Tempus Sans ITC"><font size=+1>Tempus Sans ITC</font></font></b></center>
+</td>
+
+<tr>
+<td>
+<center><input TYPE="radio" VALUE="Tempus Sans ITC Bold" Name="TextAdFont">
+<br><b><font face="Tempus Sans ITC Bold"><font size=+1>Tempus Sans ITC Bold</font></font></b></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Times New Roman" Name="TextAdFont">
+<br><font face="Times New Roman"><font size=+1>Times New Roman</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Times New Roman Bold" Name="TextAdFont">
+<br><font face="Times New Roman Bold"><font size=+1>Times New Roman Bold</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="Trebuchet MS" Name="TextAdFont">
+<br><b><font face="Trebuchet MS Bold"><font size=+1>Trebuchet MS Bold</font></font></b></center>
+</td>
+
+<tr>
+<td>
+<center><input TYPE="radio" VALUE="Veranda" Name="TextAdFont">
+<br><font face="Verdana"><font size=+1>Veranda</font></font></center>
+</td>
+
+
+<td>
+<center><input TYPE="radio" VALUE="Segoe Script" Name="TextAdFont">
+<br><b><font face="Segoe Script"><font size=+1>Segoe Script</font></font></b></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="font face=Westminster" Name="TextAdFont">
+<br><font face="Westminster"><font size=+1>Westminster</font></font></center>
+</td>
+
+<td>
+<center><input TYPE="radio" VALUE="font face=Webdings" Name="TextAdFont">
+<br><font face="Webdings"><font size=+1>Webdings</font></font></center>
+</td>
+
+</tr>
+</table></center>

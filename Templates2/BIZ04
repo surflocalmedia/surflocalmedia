@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.1 TRANSITIONAL//EN">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Surflocal.Net Ad Creation Suite at www.surflocal.net">
+   <meta name="Author" content="Surflocal.Net Website Creator at www.surflocal.net">
+   <meta http-equiv="Page-Exit" content="RevealTrans (Duration=2, Transition=23)">
+   <meta name="Robots" content="forward,all">
+   <meta name="revisit after" content="every 3 days">
+   <meta name="distribution" content="global">
+   <meta name="Description" content="<!--DescriptionTag-->">
+      <meta name="Keywords" content="<!--Keywords-->  ">
+   <title><!--TitleTag--></title>
+</head>
+
+<body text="%%FontColor%%" bgcolor="#FFFFFF" link="000000" vlink="800000" alink="#600000" body style=" border-right: thick groove rgb(255,255,255); border-left: thick groove rgb(255,255,255); border-top: thick groove rgb(255,255,255); border-bottom: thick groove rgb(255,255,255)">
+
+<style>BODY {
+SCROLLBAR-HIGHLIGHT-COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: #000000; SCROLLBAR-ARROW-COLOR: %%FontColor%%; SCROLLBAR-TRACK-COLOR: %%FontColor%%; ; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: ffffff; BORDER-LIGHT-COLOR: #ffffff; BORDER-DARK-COLOR: #ffffff}
+
+</style>
+<style>A {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-TRANSFORM: uppercase; COLOR: %%FontColor%%; BACKGROUND-COLOR: ffffff
+}
+A:hover {
+	TEXT-DECORATION: underline overline
+}
+</style>
+
+<!-- BodyStuff -->
+
+<!-- Font stuff -->
+<center><table BORDER=2 COLS=1 WIDTH="900" BACKGROUND="/images/white_table.jpg" >
+<tr borderColor="%%FontColor%%">
+<td>
+<center><table BORDER=0 WIDTH="100%" HEIGHT=50 BACKGROUND="/images/solid-47.jpg" >
+<tr>
+<td>
+<center><font size=+1><FONT COLOR=FFFFFF><b>
+<!--PressHeader-->
+</center></b>
+</td>
+</tr>
+</table></center>
+
+<BR>
+<center><table BORDER=0 COLS=1 WIDTH="70%" BACKGROUND="%%BackgroundImage%%" >
+<tr>
+<td>
+<br>
+<center>
+<!--PageImageFC-->
+</center>
+<P>
+<center><table BORDER=0 COLS=3 CELLPADDING=7 WIDTH="100%" BACKGROUND="/images/solid-47.jpg" >
+<tr borderColor="#ffffff">
+<td width=320>
+
+
+<!-- Font stuff -->
+<font color=ffffff>
+Contact:&nbsp;
+<font color=ffffff>
+<!--BusinessName-->
+
+<br>
+
+
+<font color=ffffff>
+<!--Address-->
+<br><font color=ffffff>
+Phone:&nbsp;
+<font size=-1><font color=ffffff>
+<!--PhoneNumber-->
+
+</td>
+
+<td>
+<CENTER>
+<!-- Font stuff -->
+<font color=ffffff>
+<!--EmailAddress-->
+<!--EmailImage-->
+</center>
+</td>
+
+
+
+</td>
+<td width=320 ALIGN="RIGHT" VALIGN="BOTTOM">
+
+<!-- Font stuff --><font color=ffffff>
+<form action="http://maps.google.com/maps" method="get" target="_blank">
+<p><BR><label for="mapsUsSaddr">Get Directions to Our Business
+</label>
+<input type="text" class="text" name="saddr" id="mapsUsSaddr" value="" size="20" />
+<input type="submit" class="submit" value="Map It" />
+<input type="hidden" name="daddr" value="<!--Address--> " />
+<input type="hidden" name="hl" value="en" /></p>
+</form></font>
+
+
+
+</td></tr></table>
+
+
+</td>
+</tr>
+</table></center>
+
+
+<br></td>
+</tr>
+</table></center>
+
+<center><font size=-2><font color="ffffff">This press release is designed with the Surflocal Website Creator in %%CityState%%. All information on this website is used with permission and/or copyright of <font color=ffffff>%%BizName%%. <br>This website is under a blanket <a href="http://www.surflocal.net/terms.html"><font color=ffffff> privacy policy</a> with Surflocal.Net. Surflocal Website Creator Copyright <a href="http://www.surflocal.net"><font color=ffffff>Surflocal.Net</a> 1996-Present.
+<center><a href="http://www.surflocal.net/cgi-bin/surflocal/Edit.cgi?%%CityState%%&%%BizName%%"><img SRC="http://www.surflocal.net/images/Orbutn.gif" NOSAVE BORDER=0 height=13 width=13></a></center>
+</td>
+</tr>
+</table></center>
+
+
+</body>
+</html>

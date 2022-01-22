@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN">
+<html>
+   <head>
+   <meta https-equiv="content-language" content="en-us">
+   <meta https-equiv="Content-Type" content="text/html; charset=windows-1252">
+   <meta name="GENERATOR" content="6 ctemp"/>
+   <meta name="Robots" content="index,follow"/>
+   <meta name="revisit after" content="every 3 days"/>
+   <meta name="distribution" content="global"/>
+   <meta name="google-site-verification" content="Qo2396bWSEuJHigKjOrBGd3wsA1a6x0RvQafE2iB3_Q" />
+   <meta name="msvalidate.01" content="36A9DACFE5198BDA18F3E6EBAC58C1A2" />
+   <title> <!--TitleTag--> </title>
+   <meta name="Description" content="<!--DescriptionTag-->  "/>
+   <meta name="Keywords" content="<!--Keywords--> "/>
+</head>
+<link REL="SHORTCUT ICON" HREF="https://www.surflocalmedia.com/tp.ico">
+<link href="/styleC.css" rel="stylesheet" type="text/css" />
+
+<center><table BORDER=0 WIDTH="778" >
+
+<tr>
+
+<td>
+
+<!-- AddToAny BEGIN -->
+<style scoped>
+.no-underline a {text-decoration: none;}
+</style>
+<div class="no-underline">
+<div class="a2a_kit a2a_kit_size_18 a2a_default_style">
+<a class="a2a_button_email"></a>
+<a class="a2a_button_copy_link"> </a>
+<!--CouponEmailAddress--> 
+&emsp;
+<!--CouponEmailText-->
+&nbsp&nbsp&nbsp <a href="https://www.surflocalmedia.com/cgi-bin/surflocal/Edit.cgi?%%City%%%%StateCode%%&%%BizName%%"> <img SRC="https://www.surflocalmedia.com/images/Orbutn.gif" NOSAVE BORDER=0 height=22 width=22></a></center>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+</tr></table>
+
+<center><img SRC="/frame-01-1.jpg" height=43 width=780></center>
+<center><table BORDER=3 WIDTH="778" BACKGROUND="https://www.surflocalmedia.com/images/gift-gen.jpg" NOSAVE >
+<tr bordercolor="#800000">
+<td>
+<center>
+<br>
+<center><table BORDER=0 COLS=1 WIDTH="729" HEIGHT="90%"  NOSAVE  BGCOLOR="#FFFFFF" >
+<tr>
+<td>
+
+<center><table BORDER=0 COLS=2 CELLSPACING=5 CELLPADDING=5 WIDTH="100%" >
+<tr>
+
+
+<td VALIGN=TOP>
+
+<!--CouponShoppingVid-->
+</div>
+
+</td>
+
+<td VALIGN=TOP WIDTH="350">
+<center>
+<center><B><font size=+2>
+<!--CouponBusinessName-->
+</font></b>
+<p>
+<!--CouponShopping-->
+
+</td>
+</tr>
+</table>
+
+<center><table BORDER=0 COLS=2 CELLSPACING=5 CELLPADDING=5 WIDTH="700" >
+<tr>
+
+
+<td VALIGN=TOP ALIGN=CENTER>
+<b><font color="#800000">
+<font size=+1>
+
+<!--CouponOfferText-->
+
+</td>
+</tr>
+</table>
+<center><table BORDER=0 COLS=2 CELLSPACING=5 CELLPADDING=5 WIDTH="100%" >
+<tr>
+
+<td valign-bottom><div align=LEFT>
+
+<font color=000000>
+<font size=+1><B>
+<!--CouponAddress-->
+&nbsp;<font size=+1>
+<br>
+<!--CouponPhoneNumber-->
+</B>
+</TD>
+
+<TD>
+<div align=center>
+<font size=-1><b>
+<!--BarCodeImage--></font></div></center>
+
+
+</td>
+</tr>
+</table></center>
+
+
+
+</td>
+</tr>
+</table></center>
+
+<center><b><font size=-1><b><font color=ffffff>
+<font size=-1>Coupon Printed On: &nbsp;</font><script language=JavaScript>
+var day="";
+var month="";
+var myweekday="";
+var year="";
+mydate = new Date();
+myday = mydate.getDay();
+mymonth = mydate.getMonth();
+myweekday= mydate.getDate();
+weekday= myweekday;
+myyear= mydate.getYear();
+year = myyear
+if(myday == 0)
+day = " Sunday, "      
+else if(myday == 1)
+day = " Monday, "
+else if(myday == 2)
+day = " Tuesday, "   
+else if(myday == 3)
+day = " Wednesday, "   
+else if(myday == 4)
+day = " Thursday, "
+else if(myday == 5)
+day = " Friday, "
+else if(myday == 6)
+day = " Saturday, "
+if(mymonth == 0) {
+month = "January "}
+else if(mymonth ==1)
+month = "February "
+else if(mymonth ==2)
+month = "March "
+else if(mymonth ==3)
+month = "April "
+else if(mymonth ==4)
+month = "May "
+else if(mymonth ==5)
+month = "June "
+else if(mymonth ==6)
+month = "July "
+else if(mymonth ==7)
+month = "August "
+else if(mymonth ==8)
+month = "September "
+else if(mymonth ==9)
+month = "October "
+else if(mymonth ==10)
+month = "November "
+else if(mymonth ==11)
+month = "December "
+
+if ((navigator.appName == "Microsoft Internet Explorer") && (year < 2000))		
+year="19" + year;
+if (navigator.appName == "Netscape")
+year=1900 + year;
+document.write("<Font size=2 color=ffffff>" + day + month);
+document.write(myweekday + ", " + year + "</Font>");
+</script>----
+<!--CouponGoodThru-->
+</i></b></center>
+</td>
+</tr>
+</table>
+<center><img SRC="/frame-01-2.jpg" height=23 width=780></center>
+<center><font size=-1><b><font color="#800000"><FONT FACE="TAHOMA">
+<!--Category-->
+</center>
+
+
+<BR><BR>
+</BODY>
+</HTML>

@@ -1,0 +1,112 @@
+<link href="/stylee.css" rel="stylesheet" type="text/css" />
+
+
+<!-- begin area for press release -->
+
+<p><center><table BORDER CELLSPACING=5 CELLPADDING=5 COLS=3 WIDTH="95%" BACKGROUND="white_table.jpg" bordercolor="000000" >
+<tr>
+
+
+
+<td VALIGN=TOP width=33%>
+<center><img SRC="http://www.surflocal.net/images/layout-BIZ01.jpg" NOSAVE height=145 width=200></center>
+
+<p><input TYPE="radio" VALUE="BIZ01" NAME="template"><font color="#000000"><font size=-1>PRESS RELEASE 01<BR>For
+General Press Releases</font></font>
+<li>
+<font color="#000000"><font size=-1>1 Page Press Release</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Press Release Copy</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Photo or Image</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Driving Directions</font></font></li>
+
+<LI><font color="#000000"><font size=-1>Live News Feed</li>
+
+</td>
+
+<td VALIGN=TOP width=33%>
+<center><img SRC="http://www.surflocal.net/images/layout-BIZ02.jpg" NOSAVE height=145 width=200></center>
+
+<p><input TYPE="radio" VALUE="BIZ02" NAME="template"><font color="#000000"><font size=-1>BIZ PROFILE 01<BR>For
+Business Profiles</font></font>
+<li>
+<font color="#000000"><font size=-1>1 Page Biz Profile</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Biography</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Headshot Photo</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Driving Directions</font></font></li>
+
+</td>
+
+<td VALIGN=TOP width=33%>
+<center><img SRC="http://www.surflocal.net/images/layout-BIZ05.jpg" NOSAVE height=145 width=200></center>
+
+<p><input TYPE="radio" VALUE="BIZ05" NAME="template"><font color="#000000"><font size=-1>VIDEO BIZ PROFILE<BR>For
+Business Profiles</font></font>
+<li>
+<font color="#000000"><font size=-1>1 Page Biz Profile</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Biography</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Video</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Headshot Photo</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Driving Directions</font></font></li>
+
+</td>
+
+<tr>
+<td VALIGN=TOP width=33%>
+<center><img SRC="http://www.surflocal.net/images/layout-BIZ04.jpg" NOSAVE height=145 width=200></center>
+
+<p><input TYPE="radio" VALUE="BIZ04" NAME="template"><font color="#000000"><font size=-1>Photo Format Press
+</font></font>
+<li><font color=000000><font size=-1>700 X 900+ Photo Format Graphic (.jpg or .gif)</li>
+
+<li>
+<font color="#000000"><font size=-1>1 Page Profile</font></font></li>
+
+
+
+</td>
+
+<td VALIGN=TOP width=33%>
+<center><img SRC="http://www.surflocal.net/PressUS/arnp.jpg" NOSAVE height=145 width=200></center>
+
+<p><input TYPE="radio" VALUE="BIZ03" NAME="template"><font color="#000000"><font size=-1>Queen Press Release<BR>For
+ARNP Custom Press Releases</font></font>
+<li>
+<font color="#000000"><font size=-1>1 Page Profile</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Biography</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Headshot Photo</font></font></li>
+
+<li>
+<font color="#000000"><font size=-1>Links to your facebook and other websites</font></font></li>
+
+</td>
+
+
+
+</tr></table>
+<p>
+</body>
+</html>

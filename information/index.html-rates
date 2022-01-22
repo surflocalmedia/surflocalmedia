@@ -1,0 +1,313 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta http-equiv="PICS-Label" content="(PICS-1.1 "http://www.classify.org/safesurf/" L gen true for "http://surflocal.net/" r (SS~~000 1))">
+   <meta name="Author" content="Trinity   www.surflocal.net  trinity@surflocal.net">
+   <meta name="GENERATOR" content="Edit Pad">
+   <meta http-equiv="Page-Exit" content="RevealTrans (Duration=2, Transition=23)">
+   <meta name="Robots" content="index,follow">
+   <meta name="revisit after" content="every 7 days">
+   <meta name="distribution" content="global">
+   <meta name="description" content="Surflocal.Net is a Webpage Creator that provides Local, Regional & National Search Engine Placement.">
+   <title>OPEN AND LOCAL RATE SHEET: Surflocal.Net a Webpage Creator that provides Local, Regional &amp; National Search Engine Placement</title>
+<style TYPE="text/css">
+<!--
+BODY    { font-family: Georgia, Tahoma, Helvetica, sans-serif }
+   TD   { font-family: Georgia, Tahoma, Helvetica, sans-serif }
+ 
+-->
+</style>
+<style type="text/css">
+
+#dhtmltooltip{
+position: absolute;
+width: 300px;
+border: 2px solid 000040;
+padding: 2px;
+background-color: lightyellow;
+visibility: hidden;
+z-index: 100;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+
+</style>
+</head>
+<body text="#000040" bgcolor="#000040" link="#3333FF" vlink="#A79C5C" alink="#FFFFCC" background="fade_bk.jpg" style="border:15 ridge #A38361">
+
+<center><a NAME="top"></a><style>BODY {
+SCROLLBAR-HIGHLIGHT-COLOR: #7F684C; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #FFFFFF; SCROLLBAR-TRACK-COLOR: #7F684C; ; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: #CCB976; BORDER-LIGHT-COLOR: #7F684C; BORDER-DARK-COLOR: #7F684C}
+
+</style>
+<style><!--
+a{text-decoration:overline underline; color:CCB976; background-color:000040;}
+a:hover{text-transform:none; color:white; background-color:000040;}
+a:hover{text-decoration: overline underline;}
+a:hover{text-decoration: overline underline;}
+//-->
+</style>
+</center>
+
+<center><div id="dhtmltooltip"></div>
+
+<script type="text/javascript">
+
+/***********************************************
+* Cool DHTML tooltip script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var offsetxpoint=-60 //Customize x offset of tooltip
+var offsetypoint=20 //Customize y offset of tooltip
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thecolor, thewidth){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
+var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
+
+var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth)
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetxpoint+"px"
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight)
+tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
+else
+tipobj.style.top=curY+offsetypoint+"px"
+tipobj.style.visibility="visible"
+}
+}
+
+function hideddrivetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
+
+</script>
+<center><img SRC="banner_RATES.jpg" ALT="SURFLOCAL.NET" NOSAVE height=274 width=735></center>
+<p><p><a href="index.html">Open/Local Rates&nbsp;</a>&nbsp;&nbsp;&nbsp;<a href="svcs.html">General Services</a>&nbsp; <a href="add.html">Additional
+Services</a>&nbsp;&nbsp;&nbsp;<a href="templates.html">Specialized Templates</a> <br><a href="work-order.html">Submit Work Order/Project Proposal</a>&nbsp;&nbsp;&nbsp;<a href="http://www.surflocal.net/">HOME</a>
+<p></center>
+
+<center><table BORDER=0 COLS=1 WIDTH="100%" >
+<tr>
+<td>
+<center><table BORDER CELLSPACING=5 CELLPADDING=5 COLS=2 WIDTH="365" >
+<caption><font color="#CCB976"><font size=+1>Open Rate</font></font>
+<br><font color="#CCB976"><font size=-1>No Contract</font></font></caption>
+
+<tr BGCOLOR="#FFFFFF" BACKGROUND="white_table.jpg">
+<td><b><font color="#000066">AD TYPE</font></b></td>
+
+<td><b><font color="#000066">INVESTMENT</font></b></td>
+</tr>
+
+<tr BGCOLOR="#9797FF" BACKGROUND="blue_table.jpg">
+<td>
+<div onMouseover="ddrivetip('Full Color Button Display Ad in your city with your company name or services.  This service will advertise your website in your city, link to your existing website and provide you with search engine placement.  This ad can be combined with the Surflocal Easy Website Creator and Editing tools', '#EFEFEF')";
+ onMouseout="hideddrivetip()"><u><font color="#000066">Display
+Ad</font></u></div>
+</td>
+
+<td><font color="#000066">$35/mo</font></td>
+</tr>
+
+<tr BGCOLOR="#FFFFFF" BACKGROUND="white_table.jpg">
+<td><font color="#000066">Display Ad with Surflocal Website</font></td>
+
+<td><font color="#000066">$50/mo</font></td>
+</tr>
+
+<tr BGCOLOR="#9797FF" BACKGROUND="blue_table.jpg">
+<td>
+<div onMouseover="ddrivetip('Allows you to link your e-mail and existing website to a money-saving coupon in your applicable category redeemable at your business.  This service will advertise your existing website in your city and advertise you to your area. This ad can be combined with the Surflocal Easy Website Creator and Editing tools. ', '#EFEFEF')";
+ onMouseout="hideddrivetip()"><u><font color="#000066">Coupon
+Ad</font></u></div>
+</td>
+
+<td><font color="#000066">$100/mo</font></td>
+</tr>
+
+<tr BGCOLOR="#FFFFFF" BACKGROUND="white_table.jpg">
+<td><font color="#000066">Coupon Ad with Surflocal Website</font></td>
+
+<td><font color="#000066">$115/mo</font></td>
+</tr>
+
+<tr BGCOLOR="#9797FF" BACKGROUND="blue_table.jpg">
+<td>
+<div onMouseover="ddrivetip('Full Color Text Ad in your city with your company name or services.  This service will advertise your website in your city, link to your existing website and provide you with search engine placement. This ad can be combinedwith the Surflocal Easy Website Creator and Editing tools.', '#EFEFEF')";
+ onMouseout="hideddrivetip()"><u><font color="#000066">Text
+Ad</font></u></div>
+</td>
+
+<td><font color="#000066">$30/mo</font></td>
+</tr>
+
+<tr BGCOLOR="#FFFFFF" BACKGROUND="white_table.jpg">
+<td><font color="#000066">Text Ad with Surflocal Website</font></td>
+
+<td><font color="#000066">$45/mo</font></td>
+</tr>
+
+<tr BGCOLOR="#9797FF" BACKGROUND="blue_table.jpg">
+<td>
+<div onMouseover="ddrivetip('Keyword and Key Phrase Research, Code and Optimize Meta Data ,Analize Web Page Content , Hand Submit to Top Search Engines. This service provides listing to the major search engines including Yahoo, Google, MSN.. ', '#EFEFEF')";
+ onMouseout="hideddrivetip()"><u><font color="#000066">Search
+Engine Optimization</font></u></div>
+</td>
+
+<td><font color="#000066">$100 per session (Google, Yahoo, MSN)</font></td>
+</tr>
+
+<tr BGCOLOR="#FFFFFF" BACKGROUND="white_table.jpg">
+<td><font color="#000066">Hosting Packages</font></td>
+
+<td><font color="#000066">Starting @ $11.95/mo</font></td>
+</tr>
+</table></center>
+</td>
+
+<td>
+<center><table BORDER CELLSPACING=5 CELLPADDING=5 COLS=2 WIDTH="365" >
+<caption><font color="#CCB976"><font size=+1>Local Rate</font></font>
+<br><font color="#CCB976"><font size=-1>1 Year Contract</font></font></caption>
+
+<tr BGCOLOR="#FFFFFF" BACKGROUND="white_table.jpg">
+<td><b><font color="#000066">AD TYPE</font></b></td>
+
+<td><b><font color="#000066">INVESTMENT</font></b></td>
+</tr>
+
+<tr BGCOLOR="#9797FF" BACKGROUND="blue_table.jpg">
+<td>
+<div onMouseover="ddrivetip('Full Color Button Display Ad in your city with your company name or services.  This service will advertise your website in your city, link to your existing website and provide you with search engine placement.  This ad can be combined with the Surflocal Easy Website Creator and Editing tools', '#EFEFEF')";
+ onMouseout="hideddrivetip()"><u><font color="#000066">Display
+Ad</font></u></div>
+</td>
+
+<td><font color="#000066">$25/mo</font></td>
+</tr>
+
+<tr BGCOLOR="#FFFFFF" BACKGROUND="white_table.jpg">
+<td><font color="#000066">Display Ad with Surflocal Website</font></td>
+
+<td><font color="#000066">$40/mo</font></td>
+</tr>
+
+<tr BGCOLOR="#9797FF" BACKGROUND="blue_table.jpg">
+<td>
+<div onMouseover="ddrivetip('Allows you to link your e-mail and existing website to a money-saving coupon in your applicable category redeemable at your business.  This service will advertise your existing website in your city and advertise you to your area. This ad can be combined with the Surflocal Easy Website Creator and Editing tools. ', '#EFEFEF')";
+ onMouseout="hideddrivetip()"><u><font color="#000066">Coupon
+Ad</font></u></div>
+</td>
+
+<td><font color="#000066">$85/mo</font></td>
+</tr>
+
+<tr BGCOLOR="#FFFFFF" BACKGROUND="white_table.jpg">
+<td><font color="#000066">Coupon Ad with Surflocal Website</font></td>
+
+<td><font color="#000066">$100/mo</font></td>
+</tr>
+
+<tr BGCOLOR="#9797FF" BACKGROUND="blue_table.jpg">
+<td>
+<div onMouseover="ddrivetip('Full Color Text Ad in your city with your company name or services.  This service will advertise your website in your city, link to your existing website and provide you with search engine placement. This ad can be combinedwith the Surflocal Easy Website Creator and Editing tools.', '#EFEFEF')";
+ onMouseout="hideddrivetip()"><u><font color="#000066">Text
+Ad</font></u></div>
+</td>
+
+<td><font color="#000066">$20/mo</font></td>
+</tr>
+
+<tr BGCOLOR="#FFFFFF" BACKGROUND="white_table.jpg">
+<td><font color="#000066">Text Ad with Surflocal Website</font></td>
+
+<td><font color="#000066">$35/mo</font></td>
+</tr>
+
+<tr BGCOLOR="#9797FF" BACKGROUND="blue_table.jpg">
+<td>
+<div onMouseover="ddrivetip('Keyword and Key Phrase Research, Code and Optimize Meta Data ,Analize Web Page Content , Hand Submit to Top Search Engines. This service provides listing to the major search engines including Yahoo, Google, MSN.. ', '#EFEFEF')";
+ onMouseout="hideddrivetip()"><u><font color="#000066">Search
+Engine Optimization</font></u></div>
+</td>
+
+<td><font color="#000066">$75 per session (Google, Yahoo, MSN)</font></td>
+</tr>
+
+<tr BGCOLOR="#FFFFFF" BACKGROUND="white_table.jpg">
+<td><font color="#000066">Hosting Packages</font></td>
+
+<td><font color="#000066">Starting @ $11.95/mo</font></td>
+</tr>
+</table></center>
+</td>
+</tr>
+</table></center>
+
+<center>
+<p><font color="#CCB976">2-5 Year Contracts are available with a 5% per
+year discount.</font>
+<p>
+<hr WIDTH="200">
+<center><a href="/booklet_05.pdf"><font size=-1>Download
+Our Brochure/Rate Card</a>
+<p><font size=-1><font color="#CCB976">Office: 970-225-6225&nbsp; E-Mail:&nbsp; <a href="mailto:trinity@surflocal.net">trinity@surflocal.net&nbsp;</a>&nbsp;
+<font color="#CCB976">Copyright Surflocal 2005-2006&nbsp; </font><a href="../terms.html">Privacy/Copyright</a></font>
+<br><font size=-1><font color="#CCB976">Surflocal.Net will not be responsible for the accuracy
+of any web advertising and/or for delivery of any goods and services offered
+by advertisers.</font>
+<br><font size=-1><font color="#CCB976">Surflocal.Net reserves the right to refuse service to
+anyone.</font></center>
+<script type="text/javascript">
+<!--
+	document.write('<img src="/cgi-bin/axs/ax.pl?mode=img&ref=');
+	document.write( escape( document.referrer ) );
+	document.write('" height="1" width="1" style="display:none" alt="" />');
+// -->
+</script><noscript>
+	<img src="/cgi-bin/axs/ax.pl?mode=img" height="1" width="1" style="display:none" alt="" />
+</noscript>
+</body>
+</html>

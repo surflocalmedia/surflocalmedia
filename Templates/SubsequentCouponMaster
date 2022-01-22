@@ -1,0 +1,9 @@
+CouponTemplate=1
+CouponImage1=<img SRC="https://www.surflocalmedia.com/images/sticker.jpg" NOSAVE height=141 width=125>
+CouponOfferText=Your Offer Will Go Here.  Be Creative and Offer Something Special for your New Internet Customers.
+CouponBusinessLink=https://www.surflocalmedia.com
+CouponBusinessLinkText=Business link text
+CouponHeadline=Your coupon headline goes here (usually including your business name)
+CouponEmailAddress=your@email.here (will become a clickable link)
+CouponEmailText=E-mail us
+CouponAddress=You

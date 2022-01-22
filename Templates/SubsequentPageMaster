@@ -1,0 +1,11 @@
+Paragraph1=Give a brief message that welcomes people to your site here- Welcome your visitors with a warm greeting that makes them want to stay and take a look. Give an interesting first impression!
+Paragraph2=Please give a brief description of your company here. Tell visitors what you do, how long you have been in business, if you are local , family owned or a corporation, and any certifications or licenses you may carry. This section will be called "Our Company"
+Paragraph3=Please give a brief description of what makes your business better than your competition here. Include any awards, recognitions and special attributes that you have. Why should visitors shop with you? What are the benefits of choosing you over the competition? This section will be called "Why Should You Shop with Us?"
+PhoneNumber=(555) 555-5555
+FaxNumber=(555) 555-5555
+Address=Your address here
+Town=Your town/State, Zip here
+EmailAddress=your@e-mail.address (will become clickable link)
+EmailImage=<img SRC="https://www.surflocalmedia.com/images/email20.gif" BORDER=0>
+PageTemplate=1
+PageBackgroundImage=tile2_12

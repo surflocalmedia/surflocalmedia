@@ -1,0 +1,37 @@
+body {
+	font-family: bookman old style, arial, tahoma, sans-serif;
+	font-size: 10px;
+	text-align: center;
+        color: #000000;
+        bgcolor: #FFFFFF;
+        background: url(https://www.surflocal.net/blue-back.jpg); 
+        link: #000000;
+        vlink: #000000;
+        alink: #0707A6;
+        border:3 ridge #000000;
+}
+
+BODY {
+SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; 
+SCROLLBAR-3DLIGHT-COLOR: #ffffff; 
+SCROLLBAR-ARROW-COLOR: #ffd098; 
+SCROLLBAR-TRACK-COLOR: #000000; 
+SCROLLBAR-DARKSHADOW-COLOR: #ffffff; 
+SCROLLBAR-BASE-COLOR: #13135B; 
+BORDER-LIGHT-COLOR: #ffffff; 
+BORDER-DARK-COLOR: #ffffff;
+
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+   text-transform:none; color:800000;
+}
+
+
+a:hover{text-decoration: overline underline;}
+a:hover{text-decoration: overline underline;}

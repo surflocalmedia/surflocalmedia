@@ -1,0 +1,39 @@
+<link href="/stylee.css" rel="stylesheet" type="text/css" />
+
+
+<center><table BORDER WIDTH="562" class="table" >
+<tr>
+<td ALIGN=CENTER WIDTH="136" HEIGHT="56"><img SRC="https://www.surflocalmedia.com/images/5_5-out1.gif" NOSAVE height=56 width=136></td>
+
+<td ALIGN=CENTER WIDTH="136" HEIGHT="56"><img SRC="https://www.surflocalmedia.com/images/5_5-out2.gif" NOSAVE height=56 width=136></td>
+
+<td ALIGN=CENTER WIDTH="136" HEIGHT="56"><img SRC="https://www.surflocalmedia.com/images/5_5-out3.gif" NOSAVE height=56 width=136></td>
+
+<td ALIGN=CENTER WIDTH="136" HEIGHT="56"><img SRC="https://www.surflocalmedia.com/images/5_5-weave.gif" NOSAVE height=56 width=136></td>
+
+</tr>
+
+<tr>
+<td ALIGN=CENTER WIDTH="136" HEIGHT="56" background="https://www.surflocalmedia.com/images/white_table.jpg"><font size=+1>Display Ad
+1&nbsp;</font><input 
+
+            type="radio" name="ButtonBackgroundImage" value="out1"></td>
+
+<td ALIGN=CENTER WIDTH="136" HEIGHT="56" background="https://www.surflocalmedia.com/images/white_table.jpg"><font size=+1>Display Ad
+2&nbsp;</font></font><input 
+
+            type="radio" name="ButtonBackgroundImage" value="out2"></td>
+
+<td ALIGN=CENTER WIDTH="136" HEIGHT="56" background="https://www.surflocalmedia.com/images/white_table.jpg"><font size=+1>Display Ad
+3&nbsp;</font></font><input 
+
+            type="radio" name="ButtonBackgroundImage" value="out3"></td>
+
+<td ALIGN=CENTER WIDTH="136" HEIGHT="56" background="https://www.surflocalmedia.com/images/white_table.jpg"><font size=+1>Display Ad
+4&nbsp;</font></font><input 
+
+            type="radio" name="ButtonBackgroundImage" value="weave"></td>
+
+
+</tr>
+</table></center>

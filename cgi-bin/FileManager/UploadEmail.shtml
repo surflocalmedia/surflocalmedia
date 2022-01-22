@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<meta http-equiv=Content-Type content=text/html; charset=iso-8859-1> 
+<STYLE type=text/css>
+            td, th {font-family: Verdana, Arial; font-size:8pt}
+            input, select {font-family: Verdana, Arial; font-size:8pt}
+            .button {font-size:7pt;width:''}
+        .titel  {font-family: Verdana, Arial; font-size:10pt; font-weight:bolder; color: #999999}
+        .of {border-style:solid; border-width: 1; border-color : #7c96af; background-color:#dddddd; font-size:8pt}
+        .off {border-style:none;background-color:#f3f3f3}
+        .selected {border-style:none;background-color:#ff6666}
+        .error {color: #ff0000; text-align: center;  font-size:12pt;}
+</STYLE>
+
+</HEAD>
+<DIV><BR></DIV>
+<TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=left>
+      <TABLE cellSpacing=0 cellPadding=0 border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top align=left><IMG
+            src="/FileManagerData/logo.jpg" border=0></TD>
+<TR>
+          <TD colSpan=2><IMG height=1
+            src="/FileManagerData/line.gif"
+            width=500 border=0></TD></TR></TBODY></TABLE><BR><BR>
+      <TABLE cellSpacing=0 cellPadding=0 border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top align=left width=500>
+
+<DIV><FONT class=body face=Geneva,Verdana,Arial,Helvetica color=#000000 size=2><B>Dear [[RegisteredOwner]],</B></FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT class=body face=Geneva,Verdana,Arial,Helvetica color=#000000 size=2>User: [[user]] has successfully uploaded the following files:</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+
+
+        <body  topmargin=0 leftmargin=0>
+<table border=0 width=100% cellspacing=1 cellpadding=1 ALIGN=left ><form name=files id=files>
+<TD colSpan=3><IMG height=1
+                  src="/FileManagerData/line.gif"
+                  width=500 border=0></TD></TR>
+              <TR height=30>
+                <TD vAlign=center align=left width=100 height=30><FONT
+                  class=body face=Geneva,Verdana,Arial,Helvetica color=#000000
+                  size=2><B>File Name</B></FONT></TD>
+                <TD vAlign=center align=left width=345 height=30><FONT
+                  class=body face=Geneva,Verdana,Arial,Helvetica color=#000000
+                  size=2><B>Description</B></FONT></TD>
+<TR>
+                <TD colSpan=3><IMG height=1
+                  src="/FileManagerData/line.gif"
+                  width=500 border=0></TD></TR>
+<tr class=off    height=20>
+<td colspan=2>[[files]]</tr>
+
+<tr class=off >
+<tr class=off    height=20>
+</tr>
+</table>
+
+              <TR>
+                <TD colSpan=3><IMG height=1
+                  src="/FileManagerData/line.gif"
+                  width=500 border=0></TD></TR></TBODY></TABLE><BR><BR>
+            <TABLE cellSpacing=0 cellPadding=0 width=480 border=0>
+              <TBODY>
+              <TR>
+                <TD><FONT class=message face=Geneva,Verdana,Arial,Helvetica
+                  color=#000000 size=2><B>Accessing The Uploaded Files:</B><BR>To access the uploaded files please click <a href="/cgi-bin/FileManager/Manager.pl"><B>Here</B></a> to login.<BR><BR><B>Sincerely,</B><BR><BR>Surflocal.Net
+<TR>
+                      <TD vAlign=top align=middle>
+                        <TABLE cellSpacing=0 cellPadding=0 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD vAlign=top noWrap align=middle width=5
+                            rowSpan=3></TD>
+                            <TD vAlign=top align=middle>
+                              <TABLE cellSpacing=0 cellPadding=1 bgColor=#c0c0c0
+                              border=0>
+                                <TBODY>
+                                <TR>
+                             </TD></TR></TBODY></TABLE></TD>

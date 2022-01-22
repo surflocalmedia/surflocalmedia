@@ -1,0 +1,185 @@
+BODY
+{
+    BACKGROUND-COLOR: #000000;
+    COLOR: #70666f;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 11px
+}
+TABLE
+{
+    COLOR: #70666f;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 11px
+}
+P
+{
+    COLOR: #555555;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 11px;
+    MARGIN-BOTTOM: 4px;
+    MARGIN-TOP: 4px
+}
+.NoBreakBeforeAfter
+{
+    MARGIN-BOTTOM: 0px;
+    MARGIN-TOP: 0px
+}
+.NoBreakBefore
+{
+    MARGIN-TOP: 0px
+}
+.NoBreakAfter
+{
+    MARGIN-BOTTOM: 0px
+}
+TABLE.Top
+{
+    BORDER-BOTTOM: black 1px;
+    BORDER-LEFT: black 1px solid;
+    BORDER-RIGHT: black 1px solid;
+    BORDER-TOP: black 1px solid
+}
+TABLE.Middle
+{
+    BORDER-BOTTOM: black 1px;
+    BORDER-LEFT: black 1px solid;
+    BORDER-RIGHT: black 1px solid;
+    BORDER-TOP: black 1px
+}
+TABLE.Bottom
+{
+    BORDER-BOTTOM: black 1px solid;
+    BORDER-LEFT: black 1px solid;
+    BORDER-RIGHT: black 1px solid;
+    BORDER-TOP: black 1px
+}
+A
+{
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none
+}
+INPUT
+{
+    COLOR: #70666f;
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: 11px
+}
+.Ancho100
+{
+    WIDTH: 100px
+}
+.Ancho200
+{
+    WIDTH: 200px
+}
+TD.Box2
+{
+    BACKGROUND-IMAGE: url(images/Box2.gif);
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-REPEAT: repeat-x
+}
+TD.Box4
+{
+    BACKGROUND-IMAGE: url(images/Box4.gif);
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-REPEAT: repeat-y
+}
+TD.Box6
+{
+    BACKGROUND-IMAGE: url(images/Box6.gif);
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-REPEAT: repeat-y
+}
+TD.Box8
+{
+    BACKGROUND-IMAGE: url(images/Box8.gif);
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-REPEAT: repeat-x
+}
+.HalfBreakBeforeAfter
+{
+    MARGIN-BOTTOM: 2px;
+    MARGIN-TOP: 2px
+}
+.HalfBreakBefore
+{
+    MARGIN-TOP: 2px
+}
+.HalfBreakAfter
+{
+    MARGIN-BOTTOM: 2px
+}
+TD.Bottom
+{
+    BACKGROUND-IMAGE: url(images/Bottom.gif);
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-REPEAT: repeat-x
+}
+TD.Left
+{
+    BACKGROUND-IMAGE: url(images/LeftMiddle.gif);
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-REPEAT: repeat-y
+}
+TD.Right
+{
+    BACKGROUND-IMAGE: url(images/RightMiddle.gif);
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-REPEAT: repeat-y
+}
+TD.Top2B
+{
+    BACKGROUND-IMAGE: url(images/Top2B.gif);
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-REPEAT: repeat-y
+}
+.ColorGrey
+{
+    BACKGROUND-COLOR: #dadfe4
+}
+.Ancho150
+{
+    WIDTH: 150px
+}
+.Indented15L
+{
+    MARGIN-LEFT: 15px
+}
+.Indented10
+{
+    MARGIN-LEFT: 10px;
+    MARGIN-RIGHT: 10px
+}
+.Title
+{
+    COLOR: #042989;
+    FONT-WEIGHT: bold
+}
+.Indented10L
+{
+    MARGIN-LEFT: 10px
+}
+TD.MiddleBottom
+{
+    BACKGROUND-IMAGE: url(images/MiddleBottom.gif);
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-REPEAT: repeat-x
+}
+.ColorBlack
+{
+    BACKGROUND-COLOR: #000000
+}
+.TextB
+{
+    COLOR: #a9b3bc
+}
+.indented20
+{
+    MARGIN-LEFT: 20px;
+    MARGIN-RIGHT: 20px
+}
+.Bottom
+{
+    COLOR: #afb9c2;
+    FONT-WEIGHT: bold
+}

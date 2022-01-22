@@ -1,0 +1,34 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>   
+<meta https-equiv="Content-Type" content="text/html; charset=iso-8859-1">   
+<meta name="GENERATOR" content="Mozilla/4.7 [en] (Win98; I) [Netscape]">   
+<title>Surflocal Easy Web Site Creator</title>
+</head>
+<link href="/stylee.css" rel="stylesheet" type="text/css" />
+<center>
+<h1>Previewing Your Ad</font></h1>
+</center>
+<center><h3><font color="#FFFFFF">Please check the display below. If you find any errors or are not pleased with your display ad, click the "Make Changes" button below and you will be taken back to adjust your ad. Otherwise,check "Finalize My Display Ad" to continue.</font></font></h3></center>
+
+<!-- Button preview table here -->
+
+<center><table border="0">    
+<tr>        
+<td align="center" width="136" background="https://www.SurfLocal.net/images/4-1-%%BackgroundImage%%.jpg" bgcolor="%%ButtonColor%%" height="56">	
+<a href="%%ButtonUrl%%" target="_new">
+<font color="%%FontColor%%" face="%%Font%%">
+<font size=-1>%%ButtonText%%</font></a></td>    
+</tr></table>
+</center>
+
+<!-- end button preview table -->
+
+<center><br><font color="#FFFFFF">Are you pleased with your display ad?</font></font>
+
+<!-- #####Form for bad button##### -->
+<form action="ButtonEdit.cgi" method="POST"><input type="hidden" name="BizName" value="%%BizName%%"><input type="hidden" name="City" value="%%City%%"><input type="hidden" name="State" value="%%State%%"><input type="hidden" name="AdType" value="%%AdType%%"><input type="hidden" name="Category" value="%%Category%%"><input type="hidden" name=action value=BeginButton><input type=submit value="NO! Make changes to this button"></form><form action="ButtonEdit.cgi" method="POST"><input type="hidden" name="BizName" value="%%BizName%%"><input type="hidden" name="City" value="%%City%%"><input type="hidden" name="State" value="%%State%%"><input type="hidden" name="AdType" value="%%AdType%%"><input type="hidden" name="Category" value="%%Category%%"><input type="hidden" name="Font" value="%%Font%%"><input type="hidden" name="FontColor" value="%%FontColor%%"><input type="hidden" name="BackgroundImage" value="%%BackgroundImage%%"><input type="hidden" name="ButtonColor" value="%%ButtonColor%%"><input type="hidden" name="ButtonText" value="%%ButtonText%%"><input type="hidden" name="ButtonUrl" value="%%ButtonUrl%%"><input type="hidden" name=action value=FinalizeButton>
+<input type=submit value="YES! This button is OK. Finalize it.">
+</form><br></center>
+</body>
+</html>

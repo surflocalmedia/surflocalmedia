@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML> 
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>About File Manager</title>
+<meta http-equiv="imagetoolbar" content="false">
+
+<style type="text/css">
+.fsx01 {font-size: 11px;}
+.txdec {text-decoration: none;}
+
+.dfltt {font-family:Times New Roman;font-size:14px;font-weight:normal;text-decoration:none;text-align:left;}
+body {margin:0;height:100%;width:100%;}
+</style>
+</head> 
+
+<body bgcolor="#ffffff" alink="#ff0000" link="#0000ff" vlink="#800080" >
+
+<div id="Oobj18" style="position:absolute;z-index:1;visibility:visible; left:1px;top:0px;width:384px;height:321px;font-size:1px;">
+<img name="Ggeo30" Align=Top SRC="../../FileManagerData/aboutfilemanager.png" alt="" border=0 width="384" height="321"></div>
+
+<div id="Oobj29" style="position:absolute;z-index:2;visibility:visible; left:212px;top:178px;width:170px;height:18px;">
+<div id="Grtf29" class="dfltt">
+<font face="Arial" class="fsx01" color="#808080"><B>SURFLOCAL.NET<br>
+</B></font></div>
+</div>
+
+<div id="Oobj31" style="position:absolute;z-index:3;visibility:visible; left:304px;top:80px;width:64px;height:19px;">
+<div id="Grtf31" class="dfltt">
+<font face="Arial" class="fsx01" color="#727272"><B>1.4.04e OEM<br></B></font></div>
+</div>
+
+
+</body> 
+</html> 

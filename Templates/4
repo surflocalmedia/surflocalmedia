@@ -1,0 +1,306 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN"/>
+   <head>
+   <meta name="GENERATOR" content=" 4 "/>
+   <meta name="Robots" content="index,follow"/>
+   <meta name="revisit after" content="every 3 days"/>
+   <meta name="distribution" content="global"/>
+   <meta name="google-site-verification" content="Qo2396bWSEuJHigKjOrBGd3wsA1a6x0RvQafE2iB3_Q" />
+   <meta name="msvalidate.01" content="36A9DACFE5198BDA18F3E6EBAC58C1A2" />
+   <meta name="Description" content="<!--DescriptionTag-->"/>
+   <meta name="Keywords" content="<!--Keywords-->  "/>
+    <title><!--TitleTag--></title> 
+</head>
+
+<body text="%%FontColor%%" bgcolor="#ffffff" link="%%FontColor%%" vlink="%%FontColor%%" alink="#600000" body style=" border-right: thick groove rgb(255,255,255); border-left: thick groove rgb(255,255,255); border-top: thick groove rgb(255,255,255); border-bottom: thick groove rgb(255,255,255)">
+<!-- BodyStuff -->
+<style>BODY {
+SCROLLBAR-HIGHLIGHT-COLOR: #ffd201; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #ffd098; SCROLLBAR-TRACK-COLOR: %%FontColor%%; ; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: %%FontColor%%; BORDER-LIGHT-COLOR: #ffd098; BORDER-DARK-COLOR: #ffd098}
+
+</style>
+<style>A {
+	TEXT-DECORATION: underline
+}
+A:hover {
+	TEXT-TRANSFORM: uppercase; COLOR: #ffffff; BACKGROUND-COLOR: %%FontColor%%
+}
+A:hover {
+	TEXT-DECORATION: underline overline
+}
+A:hover {
+	TEXT-DECORATION: underline overline
+}
+</style>
+
+<center><table BORDER=0 COLS=1 WIDTH="98%" BACKGROUND=https://www.surflocalmedia.com/images/white_table.jpg>
+<tr>
+<td>
+<center>
+<!--Paragraph26-->
+
+<br>
+<font size=-1>
+<!-- Font stuff -->
+Today is&nbsp;</font><script language=JavaScript>
+var day="";
+var month="";
+var myweekday="";
+var year="";
+mydate = new Date();
+myday = mydate.getDay();
+mymonth = mydate.getMonth();
+myweekday= mydate.getDate();
+weekday= myweekday;
+myyear= mydate.getYear();
+year = myyear
+if(myday == 0)
+day = " Sunday, "      
+else if(myday == 1)
+day = " Monday, "
+else if(myday == 2)
+day = " Tuesday, "   
+else if(myday == 3)
+day = " Wednesday, "   
+else if(myday == 4)
+day = " Thursday, "
+else if(myday == 5)
+day = " Friday, "
+else if(myday == 6)
+day = " Saturday, "
+if(mymonth == 0) {
+month = "January "}
+else if(mymonth ==1)
+month = "February "
+else if(mymonth ==2)
+month = "March "
+else if(mymonth ==3)
+month = "April "
+else if(mymonth ==4)
+month = "May "
+else if(mymonth ==5)
+month = "June "
+else if(mymonth ==6)
+month = "July "
+else if(mymonth ==7)
+month = "August "
+else if(mymonth ==8)
+month = "September "
+else if(mymonth ==9)
+month = "October "
+else if(mymonth ==10)
+month = "November "
+else if(mymonth ==11)
+month = "December "
+
+if ((navigator.appName == "Microsoft Internet Explorer") && (year < 2000))		
+year="19" + year;
+if (navigator.appName == "Netscape")
+year=1900 + year;
+document.write("<Font face=Comic Sans MS size=2 color=%%FontColor%%>" + day + month);
+document.write(myweekday + ", " + year + "</Font>");
+</script>
+<p><center><font size=+1>Todays News</font>
+<br><font size=-1>
+<!-- Font stuff -->
+<!-- ProductLinks -->
+
+<!--UserLinks-->
+</font></center>
+
+
+
+<table BORDER=0 COLS=3 WIDTH="98%" BACKGROUND="white_table.jpg" >
+<tr borderColor="%%FontColor%%">
+<td VALIGN=TOP WIDTH="100" BACKGROUND="white_table.jpg">
+<!-- Font stuff -->
+
+<!--Paragraph30-->
+<br>
+
+<!--Paragraph31-->
+<br>
+
+<!--Paragraph32-->
+<br>
+
+<!--Paragraph33-->
+<br>
+
+<!--Paragraph34-->
+<br>
+
+<!--Paragraph35-->
+<br>
+
+<!--Paragraph36-->
+<br>
+
+<!--Paragraph37-->
+<br>
+
+<!--Paragraph38-->
+<br>
+
+<!--Paragraph39-->
+</td>
+
+<td VALIGN=TOP>
+<!-- Font stuff -->
+<center>
+<!--PageImage1-->
+<font size=-1></font>
+<br><br><font size=-1>
+<!-- Font stuff -->
+Local News</font></font>
+<br><br>
+<!-- Font stuff -->
+<font size=+1>
+<!--Paragraph20-->
+<br>
+<!-- Font stuff -->
+<font size=-1>
+<!-- Font stuff -->
+Sports News</font></font>
+<br><br>
+<!-- Font stuff -->
+<!--Paragraph22-->
+<br><br>
+<font size=-1>
+<!-- Font stuff -->
+Opinion</font></font>
+<br><br>
+<!-- Font stuff -->
+<!--Paragraph24-->
+<br>
+
+
+<br><LEFT>
+<!-- Font stuff -->
+<!-- Font stuff -->
+<Font size=+2>
+<br>
+<center>Welcome to %%BizName%%
+</Font></Font></Font></center>
+<p>
+<!-- Font stuff -->
+</center>
+<!--Paragraph1-->
+
+</Font></Font>
+<br>
+<hr width=200 color=%%FontColor%% SIZE=2 hr>
+<br>
+<!-- Font stuff -->
+<center>
+<Font size=+2>
+<!--Paragraph5-->
+</Font></Font></center>
+<LEFT>
+<!-- Font stuff -->
+<p></center>
+<!--Paragraph2-->
+
+
+</Font></Font></LEFT>
+<br>
+<hr width=200 color=%%FontColor%% SIZE=2 hr>
+<br>
+
+<!-- Font stuff -->
+<Font size=+2>
+<br>
+<center>
+<!--Paragraph6-->
+</Font></Font></Font></center>
+<br>
+<!-- Font stuff -->
+<!--Paragraph3-->
+<br>
+<p><center><b>WORLD NEWS TICKER</b>
+<br>
+
+<script language="Javascript" src="https://www.freenewsfeed.com/headlines/?javasc=1&default=1"></script> 
+<hr width=200 color=%%FontColor%% SIZE=2 hr>
+<br><br>
+<!-- Font stuff -->
+<center>
+%%BizName%% <br>Information & Subscriptions</font>
+<br>
+<br>
+</Font><Font size=+1>
+Phone: <!--PhoneNumber--><br>
+Cell: <!--FaxNumber--><br>
+<!--Address--><br>
+<!--Town-->
+</p>
+</Font></Font></Font></h2></center>
+
+<center>
+<font size=-1>
+<!--EmailAddress-->
+<!--EmailImage-->
+</a></center>
+<br><br>
+
+<p><center><font size=+1>
+<!-- Font stuff -->
+%%Bizname%% Articles</font>
+<br><font size=-1>
+<!-- ProductLinks -->
+
+<!--UserLinks-->
+ </font></center>
+</td>
+</td>
+
+
+<td VALIGN=TOP WIDTH="100">
+<!-- Font stuff -->
+
+<!--Paragraph40-->
+<br>
+
+<!--Paragraph42-->
+<br>
+
+<!--Paragraph43-->
+<br>
+
+<!--Paragraph44-->
+<br>
+
+<!--Paragraph45-->
+<br>
+
+<!--Paragraph46-->
+<br>
+
+<!--Paragraph47-->
+<br>
+
+<!--Paragraph48-->
+<br>
+
+<!--Paragraph49-->
+<br>
+
+<!--Paragraph50-->
+</td>
+</tr>
+</table>
+
+<center>
+
+</td>
+</tr>
+</table></center>
+
+<center>
+<p><font color=D3D3D3>Copyright © %%BizName%%. This website is under a blanket<a href="https://www.surflocalmedia.com/terms.html"> <font color=D3D3D3> Privacy
+Policy</a> <font color=	#D3D3D3>with surflocalmedia.com. &nbsp;&nbsp;<a href="https://www.surflocalmedia.com/cgi-bin/surflocal/Edit.cgi?%%CityState%%&%%BizName%%"><img SRC="https://www.surflocalmedia.com/images/Orbutn.gif" NOSAVE BORDER=0 height=13 width=13></a><font size=-1><a href="https://www.surflocalmedia.com/%%CityState%%/"><font color=D3D3D3>  &nbsp;&nbsp;   Back to %%CityState%% Home&nbsp;</a></font>
+
+
+
+
+<BR><BR>
+</body>
+</html>

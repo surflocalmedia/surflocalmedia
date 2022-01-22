@@ -1,0 +1,95 @@
+BODY
+{
+    BACKGROUND-COLOR: #0f2a48
+}
+TABLE
+{
+    BORDER-RIGHT: black;
+    BORDER-TOP: black;
+    BORDER-LEFT: black;
+    BORDER-BOTTOM: black
+}
+P
+{
+    MARGIN-TOP: 4px;
+    FONT-SIZE: 11px;
+    MARGIN-BOTTOM: 4px;
+    COLOR: #ffffff;
+    FONT-FAMILY: Tahoma
+}
+TABLE.TopBarBack
+{
+    BACKGROUND-IMAGE: url(images/TopBarBack.gif)
+}
+TABLE.Back1
+{
+    BACKGROUND-COLOR: #23415d
+}
+TABLE.Back2
+{
+    BACKGROUND-COLOR: #23415d
+}
+TD.Back2
+{
+    BACKGROUND-COLOR: #23415d
+}
+TD.BottomCol2Back
+{
+    BACKGROUND-IMAGE: url(images/BottomCol2Back.gif)
+}
+TD.BottomCol1Back
+{
+    BACKGROUND-IMAGE: url(images/BottomCol1Back.gif)
+}
+TD.Back1
+{
+    BACKGROUND-COLOR: #23415d
+}
+TABLE.BottomBarBack
+{
+    BACKGROUND-IMAGE: url(images/BottomBarraBack.jpg)
+}
+P.Justified
+{
+    TEXT-ALIGN: justify
+}
+TABLE.Top
+{
+    BORDER-RIGHT: black 1px solid;
+    BORDER-TOP: black 1px solid;
+    BORDER-LEFT: black 1px solid;
+    BORDER-BOTTOM: black 1px
+}
+TABLE.Center
+{
+    BORDER-RIGHT: black 1px solid;
+    BORDER-TOP: black 1px;
+    BORDER-LEFT: black 1px solid;
+    BORDER-BOTTOM: black 1px
+}
+TABLE.Bottom
+{
+    BORDER-RIGHT: black 1px solid;
+    BORDER-TOP: black 1px;
+    BORDER-LEFT: black 1px solid;
+    BORDER-BOTTOM: black 1px solid
+}
+P.NoBreakBeforeAfter
+{
+    MARGIN-TOP: 0px;
+    MARGIN-BOTTOM: 0px
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+   text-transform:none; color:800000;
+}
+
+
+a:hover{text-decoration: overline underline;}
+a:hover{text-decoration: overline underline;}
+
